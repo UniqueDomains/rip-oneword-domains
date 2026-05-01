@@ -1,10 +1,10 @@
-# Available .RIP One-Word Domains (11,389)
+# Available .RIP One-Word Domains (11,828)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C389%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C828%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .rip one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,389 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,828 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,389 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,828 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/rip`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| matcha.rip             | available | $7.99     | —             | 86             | 39     | 6      | name.com  |
-| SanDiego.rip           | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo  |
-| whynot.rip             | available | $7.99     | —             | 74             | 39     | 7      | name.com  |
-| designs.rip            | premium   | $500      | —             | 72             | 21     | 7      | name.com  |
-| aliens.rip             | available | $7.99     | —             | 56             | 35     | 6      | name.com  |
-| breastcancer.rip       | premium   | $123.75   | —             | 58             | 9      | 13     | name.com  |
-| trends.rip             | available | $7.99     | —             | 60             | 32     | 6      | name.com  |
-| DistrictofColumbia.rip | premium   | $92.40    | $92.40        | 52             | 4      | 20     | namecheap |
-| letsgo.rip             | available | $7.99     | —             | 57             | 31     | 7      | name.com  |
-| solutions.rip          | available | $7.99     | —             | 56             | 31     | 9      | name.com  |
-| blocks.rip             | available | $7.99     | —             | 53             | 29     | 6      | name.com  |
-| forms.rip              | available | $7.99     | —             | 54             | 28     | 5      | name.com  |
-| systems.rip            | available | $7.99     | —             | 46             | 27     | 7      | name.com  |
-| destination.rip        | available | $7.99     | —             | 90             | 25     | 11     | name.com  |
-| Keith.rip              | available | $32.98    | —             | 66             | 25     | 5      | namecheap |
-| drops.rip              | available | $7.99     | —             | 52             | 25     | 5      | name.com  |
-| reports.rip            | available | $7.99     | —             | 58             | 24     | 7      | name.com  |
-| echoes.rip             | available | $7.99     | —             | 56             | 24     | 6      | name.com  |
-| superhero.rip          | available | $7.99     | —             | 84             | 23     | 9      | name.com  |
-| holidays.rip           | available | $7.99     | —             | 78             | 23     | 8      | name.com  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| matcha.rip       | available | $7.99     | —             | 86             | 39     | 6      | name.com  |
+| SanDiego.rip     | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo  |
+| whynot.rip       | available | $7.99     | —             | 74             | 39     | 7      | name.com  |
+| designs.rip      | premium   | $500      | —             | 72             | 21     | 7      | name.com  |
+| aliens.rip       | available | $7.99     | —             | 56             | 35     | 6      | name.com  |
+| breastcancer.rip | premium   | $123.75   | —             | 58             | 9      | 13     | name.com  |
+| trends.rip       | available | $7.99     | —             | 60             | 32     | 6      | name.com  |
+| letsgo.rip       | available | $7.99     | —             | 57             | 31     | 7      | name.com  |
+| solutions.rip    | available | $7.99     | —             | 56             | 31     | 9      | name.com  |
+| blocks.rip       | available | $7.99     | —             | 53             | 29     | 6      | name.com  |
+| forms.rip        | available | $7.99     | —             | 54             | 28     | 5      | name.com  |
+| systems.rip      | available | $7.99     | —             | 46             | 27     | 7      | name.com  |
+| destination.rip  | available | $7.99     | —             | 90             | 25     | 11     | name.com  |
+| drops.rip        | available | $7.99     | —             | 52             | 25     | 5      | name.com  |
+| gamers.rip       | available | $7.99     | —             | 62             | 24     | 6      | name.com  |
+| reports.rip      | available | $7.99     | —             | 58             | 24     | 7      | name.com  |
+| echoes.rip       | available | $7.99     | —             | 56             | 24     | 6      | name.com  |
+| coupons.rip      | available | $7.99     | —             | 52             | 24     | 7      | name.com  |
+| superhero.rip    | available | $7.99     | —             | 84             | 23     | 9      | name.com  |
+| holidays.rip     | available | $7.99     | —             | 78             | 23     | 8      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,389 live domains                              |
+| 1,000-row public sample | 11,828 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RIP One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RIP One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
