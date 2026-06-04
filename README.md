@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .rip one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,832 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,832 domains · **Median ask:** $11.50 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,832 domains · **Median ask:** $11.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/rip`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| whynot.rip       | available | $7.99     | —             | 74             | 44     | 7      | name.com  |
-| SanDiego.rip     | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo  |
-| matcha.rip       | available | $7.99     | —             | 86             | 39     | 6      | name.com  |
-| designs.rip      | premium   | $500      | —             | 72             | 21     | 7      | name.com  |
-| aliens.rip       | available | $7.99     | —             | 56             | 35     | 6      | name.com  |
-| breastcancer.rip | premium   | $123.75   | —             | 58             | 9      | 13     | name.com  |
-| trends.rip       | available | $7.99     | —             | 60             | 32     | 6      | name.com  |
-| letsgo.rip       | available | $7.99     | —             | 57             | 31     | 7      | name.com  |
-| solutions.rip    | available | $7.99     | —             | 56             | 31     | 9      | name.com  |
-| blocks.rip       | available | $7.99     | —             | 53             | 29     | 6      | name.com  |
-| forms.rip        | available | $7.99     | —             | 54             | 28     | 5      | name.com  |
-| systems.rip      | available | $7.99     | —             | 46             | 27     | 7      | name.com  |
-| drops.rip        | available | $7.99     | —             | 52             | 25     | 5      | name.com  |
-| destination.rip  | available | $7.99     | —             | 90             | 24     | 11     | name.com  |
-| gamers.rip       | available | $7.99     | —             | 62             | 24     | 6      | name.com  |
-| reports.rip      | available | $7.99     | —             | 58             | 24     | 7      | name.com  |
-| echoes.rip       | available | $7.99     | —             | 56             | 24     | 6      | name.com  |
-| coupons.rip      | available | $7.99     | —             | 52             | 24     | 7      | name.com  |
-| superhero.rip    | available | $7.99     | —             | 84             | 23     | 9      | name.com  |
-| holidays.rip     | available | $7.99     | —             | 78             | 23     | 8      | name.com  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| every.rip    | available | $7.99     | —             | 82             | 45     | 5      | name.com                                                  |
+| cat.rip      | resell    | —         | —             | 92             | 80     | 3      | united-domains GmbH                                       |
+| art.rip      | premium   | $260      | $260          | 90             | 51     | 3      | namecheap                                                 |
+| together.rip | available | $7.99     | —             | 80             | 45     | 8      | name.com                                                  |
+| shop.rip     | resell    | —         | —             | 78             | 52     | 4      | Sav.com, LLC - 2                                          |
+| ben.rip      | premium   | $71.40    | $71.40        | 84             | 49     | 3      | namesilo                                                  |
+| hero.rip     | available | $7.99     | —             | 76             | 44     | 4      | name.com                                                  |
+| bloom.rip    | resell    | —         | —             | 72             | 51     | 5      | Dynadot Inc                                               |
+| panda.rip    | premium   | $71.40    | $71.40        | 88             | 47     | 5      | namesilo                                                  |
+| paul.rip     | available | $7.99     | —             | 70             | 44     | 4      | name.com                                                  |
+| human.rip    | resell    | —         | —             | 74             | 49     | 5      | Dynadot Inc                                               |
+| gay.rip      | premium   | $71.40    | $71.40        | 122            | 43     | 3      | namesilo                                                  |
+| shift.rip    | available | $7.99     | —             | 70             | 44     | 5      | name.com                                                  |
+| super.rip    | resell    | —         | —             | 58             | 45     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| mobile.rip   | premium   | $242      | $242          | 62             | 43     | 6      | namesilo                                                  |
+| forge.rip    | available | $7.99     | —             | 62             | 44     | 5      | name.com                                                  |
+| save.rip     | resell    | —         | —             | 70             | 39     | 4      | Dynadot Inc                                               |
+| fashion.rip  | premium   | $7.99     | —             | 98             | 41     | 7      | name.com                                                  |
+| unique.rip   | available | $7.99     | —             | 104            | 42     | 6      | name.com                                                  |
+| fly.rip      | resell    | —         | —             | 70             | 38     | 3      | Sav.com, LLC                                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RIP One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RIP One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
