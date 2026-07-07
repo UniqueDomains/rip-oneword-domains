@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .rip one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,832 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,832 domains · **Median ask:** $11.17 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,832 domains · **Median ask:** $11.16 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/rip`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/rip`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .RIP one-word domain c
 
 ### Files
 
-- `rip.csv` — public CSV extract (1,000 rows)
-- `rip.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `rip.csv`, public CSV extract (1,000 rows)
+- `rip.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| every.rip    | available | $7.99     | —             | 82             | 45     | 5      | name.com                                                  |
-| cat.rip      | resell    | —         | —             | 92             | 80     | 3      | united-domains GmbH                                       |
-| art.rip      | premium   | $260      | $260          | 90             | 51     | 3      | namecheap                                                 |
-| together.rip | available | $7.99     | —             | 80             | 45     | 8      | name.com                                                  |
-| shop.rip     | resell    | —         | —             | 78             | 52     | 4      | Sav.com, LLC - 2                                          |
-| ben.rip      | premium   | $71.40    | $71.40        | 84             | 49     | 3      | namesilo                                                  |
-| hero.rip     | available | $7.99     | —             | 76             | 44     | 4      | name.com                                                  |
-| bloom.rip    | resell    | —         | —             | 72             | 51     | 5      | Dynadot Inc                                               |
-| panda.rip    | premium   | $71.40    | $71.40        | 88             | 47     | 5      | namesilo                                                  |
-| paul.rip     | available | $7.99     | —             | 70             | 44     | 4      | name.com                                                  |
-| human.rip    | resell    | —         | —             | 74             | 49     | 5      | Dynadot Inc                                               |
-| gay.rip      | premium   | $71.40    | $71.40        | 122            | 43     | 3      | namesilo                                                  |
-| shift.rip    | available | $7.99     | —             | 70             | 44     | 5      | name.com                                                  |
-| super.rip    | resell    | —         | —             | 58             | 45     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| mobile.rip   | premium   | $242      | $242          | 62             | 43     | 6      | namesilo                                                  |
-| forge.rip    | available | $7.99     | —             | 62             | 44     | 5      | name.com                                                  |
-| save.rip     | resell    | —         | —             | 70             | 39     | 4      | Dynadot Inc                                               |
-| fashion.rip  | premium   | $7.99     | —             | 98             | 41     | 7      | name.com                                                  |
-| unique.rip   | available | $7.99     | —             | 104            | 42     | 6      | name.com                                                  |
-| fly.rip      | resell    | —         | —             | 70             | 38     | 3      | Sav.com, LLC                                              |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| age.rip   | available | $7.99     | —             | high           | low    | 3      | name.com            |
+| cat.rip   | resell    | —         | —             | high           | high   | 3      | united-domains GmbH |
+| art.rip   | premium   | $260      | $260          | high           | medium | 3      | namecheap           |
+| aid.rip   | available | $7.99     | —             | medium         | low    | 3      | name.com            |
+| fly.rip   | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC        |
+| ben.rip   | premium   | $71.40    | $71.40        | high           | medium | 3      | namesilo            |
+| awe.rip   | available | $7.99     | —             | high           | low    | 3      | name.com            |
+| Bets.rip  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC        |
+| gay.rip   | premium   | $71.40    | $71.40        | high           | medium | 3      | namesilo            |
+| beg.rip   | available | $7.99     | —             | medium         | low    | 3      | name.com            |
+| save.rip  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc         |
+| IDK.rip   | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo            |
+| dew.rip   | available | $7.99     | —             | medium         | low    | 3      | name.com            |
+| shop.rip  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 2    |
+| sub.rip   | premium   | $35.40    | $35.40        | high           | low    | 3      | namesilo            |
+| due.rip   | available | $7.99     | —             | high           | low    | 3      | name.com            |
+| taco.rip  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC         |
+| ten.rip   | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com            |
+| her.rip   | available | $7.99     | —             | medium         | low    | 3      | name.com            |
+| bloom.rip | resell    | —         | —             | high           | medium | 5      | Dynadot Inc         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of .rip domains. The names range from clean single words such as water.rip, motion.rip, and scotch.rip to longer or more specific constructions like midJanuary.rip and inspirational.rip. With a median ask of 11.5, the key question is not headline price but whether the exact word works with the .rip ending. When comparing these domains, favor names where the extension adds meaning or memorability, and be more cautious with trademark-sensitive words such as matisse.rip. For buyers, the strongest candidates are usually short, clear words that stay readable, intentional, and easy to explain out loud.
+This list covers 11,832 one-word domain names in the .rip extension, from playful compounds like rumcake.rip and toneup.rip to clean, ready-to-use strings like useit.rip and playon.rip. With a median asking price near $11.16, most names here sit well below premium-extension pricing, giving both quick buyers and long-term brand builders a low-cost pool of single-word options to compare.
 
-- All names in this selection use the .rip extension
-- Median ask is 11.5 across 11,832 listed domains
-- Best fit is usually short words with natural .rip meaning
-- Check trademark exposure on names tied to brands or people
+- 11,832 one-word .rip domains ready to compare
+- Median ask near $11.16 — low barrier to entry
+- Short, brandable names like restassured.rip, useit.rip
+- Updated daily to reflect current .rip listings
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RIP One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RIP One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
