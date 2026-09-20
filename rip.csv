@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 e7ec6ed2-1c39-4614-8eb1-5057b6bc0e28,squall.rip,available,7.99,,high,low,6,name.com,,,
 e784abfd-c255-432d-8a89-08ffa5508963,inconsistent.rip,available,7.99,,medium,low,12,name.com,,,
-45e5f8a7-b8fd-4dba-9709-07fc8b272156,McDonald.rip,available,7.99,,high,low,8,name.com,,,
+45e5f8a7-b8fd-4dba-9709-07fc8b272156,mcdonald.rip,available,7.99,,high,low,8,name.com,,,
 d8fc7e11-2134-4668-82b8-db59179a127d,banded.rip,available,7.99,29.99,low,low,6,name.com,,,08/08/2026 11:40
 2e6783da-d198-4975-8eab-227eacc2620e,affirmable.rip,available,7.99,29.99,low,low,10,name.com,,,
 350a1469-34e8-4c08-93a5-645616383fb0,generalelection.rip,available,7.99,,medium,low,16,name.com,,,
@@ -32,16 +32,16 @@ a74cc9c5-5722-4133-808c-b6d33be82ea3,triclinic.rip,available,7.99,29.99,low,low,
 4883613a-c413-425c-ab24-347ae1ac7672,ennead.rip,available,7.99,29.99,low,low,6,name.com,,,
 caf9db38-2a29-4fc8-817a-eb2239472167,contrasting.rip,available,7.99,,medium,low,11,name.com,,,
 93031106-b9fb-4df1-b858-c52bbf2c8f74,ammoniated.rip,available,7.99,29.99,low,low,10,name.com,,,
-722c420c-78ce-41ec-9939-2e513ba7f28c,Rhoda.rip,available,7.99,,medium,low,5,name.com,,,
+722c420c-78ce-41ec-9939-2e513ba7f28c,rhoda.rip,available,7.99,,medium,low,5,name.com,,,
 21046f02-d85d-411a-99d8-b7740fe6eb7c,aetiologic.rip,available,7.99,29.99,low,low,10,name.com,,,
 a978abc9-4bdd-4eea-a3f6-af78b1077362,scurrilous.rip,available,7.99,29.99,low,low,10,name.com,,,
 d462e677-7fd9-47f6-aeec-7da6dfd41d06,adducent.rip,available,7.99,29.99,low,low,8,name.com,,,
-401d8262-73bb-46de-a19e-2ab168e9df44,pastrychef.rip,available,23.49,23.49,medium,low,11,namesilo,,,14/09/2026 04:03
+401d8262-73bb-46de-a19e-2ab168e9df44,pastrychef.rip,available,23.49,23.49,medium,low,11,namesilo,,,19/09/2026 03:45
 df35d4dd-fc45-4635-a1e5-22870ee31180,tangle.rip,available,7.99,,high,low,6,name.com,,,
-6749bb86-0cba-4548-8eb8-c16ce7838aea,KeyWest.rip,available,7.99,,high,low,8,name.com,,,
+6749bb86-0cba-4548-8eb8-c16ce7838aea,keywest.rip,available,7.99,,high,low,8,name.com,,,
 dca3850e-abf9-4f94-a2ab-e441e88e423b,abroach.rip,available,7.99,29.99,low,low,7,name.com,,,
 14ca05e9-4625-48c2-97b2-43dd6e9dbb46,decay.rip,available,7.99,,high,low,5,name.com,,,
-6cb5c782-c279-4371-a0ae-b61d2ac61404,Frenchrice.rip,available,7.99,,high,low,11,name.com,,,
+6cb5c782-c279-4371-a0ae-b61d2ac61404,frenchrice.rip,available,7.99,,high,low,11,name.com,,,
 18f216d0-38b4-408c-9db0-67aafa6fee31,highschool.rip,available,7.99,,high,low,10,name.com,,,
 48d54ee2-367b-4463-aff4-619e8d8e89e5,peremptory.rip,available,7.99,29.99,low,low,10,name.com,,,07/08/2026 19:45
 8e0343da-ded0-4799-a52f-1b234b0b260a,aneurysmal.rip,available,7.99,29.99,low,low,10,name.com,,,
@@ -56,7 +56,7 @@ ba6c4e5e-1c95-4aa9-8771-462eea799735,prolife.rip,available,7.99,,medium,low,8,na
 aadfbb10-1c26-41ec-b864-36093684a402,bantu.rip,available,7.99,29.99,low,low,5,name.com,,,08/08/2026 14:50
 8793c57e-4813-4de5-b18f-c3e1455de877,speakto.rip,available,7.99,,medium,low,8,name.com,,,
 d7ee49ce-d1ba-49af-8911-d60ee6806387,brie.rip,available,7.99,,high,low,4,name.com,,,
-78a5281f-85ad-4fd0-b4f4-fcf700a8f68a,Frenchloaf.rip,available,7.99,,high,low,11,name.com,,,
+78a5281f-85ad-4fd0-b4f4-fcf700a8f68a,frenchloaf.rip,available,7.99,,high,low,11,name.com,,,
 89f41eda-8922-47aa-9415-a99e5f024f77,pleasure.rip,available,7.99,,high,low,8,name.com,,,
 4b0ed6a2-2931-4206-9b79-ce39dccb8ef8,entranceexamination.rip,available,7.99,,medium,low,20,name.com,,,
 81916953-f7bf-441a-ac7c-a57098ae10d2,deterioration.rip,available,7.99,,medium,low,13,name.com,,,
@@ -75,27 +75,27 @@ c93f6f39-e845-445a-b740-592acd0d1097,coffeemoney.rip,available,7.99,,high,low,12
 e4042435-8353-4f5c-9ed4-b5bc82ecb56c,presssecretary.rip,available,7.99,,high,low,15,name.com,,,
 07379ceb-0fe9-4d7c-a64d-5af755e90229,respectful.rip,available,7.99,,high,low,10,name.com,,,
 fa4bb451-07c0-4857-9ae0-b675fdbc9a0c,concern.rip,available,7.99,,high,low,7,name.com,,,
-77fbc7a7-0a75-4134-b4ca-809b003fb74a,column.rip,available,7.99,29.99,medium,low,6,name.com,,,13/09/2026 02:56
+77fbc7a7-0a75-4134-b4ca-809b003fb74a,column.rip,available,23.49,23.49,medium,low,6,namesilo,,,19/09/2026 04:50
 9b417b55-b84d-4ca0-9404-104d669b379f,wondered.rip,available,7.99,,medium,low,8,name.com,,,
 b5da3180-1c5b-46af-8bd5-95d916bfb216,beon.rip,available,7.99,,high,low,5,name.com,,,
 9a085d85-5d71-4dc3-944c-bc20b7e35d55,breathofheaven.rip,available,7.99,,high,low,16,name.com,,,
 740dafb6-ce2a-4e31-ab12-d73e8d0a7356,heartattack.rip,available,7.99,,medium,low,12,name.com,,,
 93a35ef6-85b6-469a-8ecb-6bdfbae87a70,worthit.rip,available,7.99,,medium,low,8,name.com,,,
 0d233dbb-3f55-4371-b839-be5dcf8e4fe5,quiteafew.rip,available,7.99,,medium,low,11,name.com,,,
-ec5239bc-6d42-4ef2-bae4-bef9acdea0d8,investment.rip,resell,,,high,low,10,Dynadot Inc,08/02/2026 17:00,08/02/2027 17:00,
+ec5239bc-6d42-4ef2-bae4-bef9acdea0d8,investment.rip,resell,,,medium,low,10,Dynadot Inc,08/02/2026 17:00,08/02/2027 17:00,19/09/2026 04:38
 d3a47279-289c-41b0-9810-e382b7bc70cc,talk.rip,available,7.99,,high,low,4,name.com,,,
 894c4c0d-7712-4f94-9376-1bb89ee9545b,professor.rip,available,7.99,,high,low,9,name.com,,,
 2f7edf66-5e39-4a0c-ba31-3ba34b0b72eb,together.rip,available,7.99,,high,medium,8,name.com,,,
 f40c946c-29dd-45d1-ab50-8f9c9aec12e1,allstar.rip,available,7.99,,high,low,8,name.com,,,
 407a2cf8-9ba1-4029-be12-07d729360a6d,pinging.rip,available,7.99,,high,low,7,name.com,,,
-04c2521b-6c0b-43f9-9319-4a39de22d921,Instagrammable.rip,available,7.99,,high,low,14,name.com,,,
-d8c46ff5-aaf2-4545-80ae-3c420e58e776,return.rip,available,24.98,32.98,medium,low,6,namecheap,,,14/09/2026 18:50
+04c2521b-6c0b-43f9-9319-4a39de22d921,instagrammable.rip,available,7.99,,high,low,14,name.com,,,
+d8c46ff5-aaf2-4545-80ae-3c420e58e776,return.rip,available,23.49,23.49,medium,low,6,namesilo,,,19/09/2026 03:27
 ecea027c-1e55-44b3-9801-7d3b8d9a315f,every.rip,available,7.99,,high,medium,5,name.com,,,
 6b8e51c9-6d3f-4113-afe2-e1f51fcb4c66,midwinter.rip,available,7.99,,medium,low,10,name.com,,,
 1ca4ea85-5c3e-4732-a9e6-f13a3bae7534,antidotal.rip,available,7.99,29.99,low,low,9,name.com,,,
 ded150be-352b-4204-92de-d514af73aa03,singletree.rip,available,7.99,,low,low,11,name.com,,,
 144955d0-f110-43ea-a000-90cb7338bd22,modelling.rip,available,7.99,,high,low,9,name.com,,,
-05fea2d9-1458-4718-b1fd-1be10e468ef8,goodGod.rip,available,7.99,,high,low,8,name.com,,,
+05fea2d9-1458-4718-b1fd-1be10e468ef8,goodgod.rip,available,7.99,,high,low,8,name.com,,,
 c5ffefbd-8375-4c9e-8bc2-df7321bb8080,closeoneeye.rip,available,7.99,,high,low,13,name.com,,,
 b81760b3-7faa-41a0-942d-e0cdd6b27976,dew.rip,available,7.99,,medium,low,3,name.com,,,
 7185e65c-245b-42fc-b2e0-a81afa8b0961,surprising.rip,available,7.99,,high,low,10,name.com,,,
@@ -116,7 +116,7 @@ be9c8cde-c407-489a-89b4-9db6fa42fae3,bouncy.rip,available,7.99,,high,low,6,name.
 78522279-163c-4f11-badf-1e0d7d4042ec,adequate.rip,available,7.99,29.99,high,low,8,name.com,,,
 960f7fc5-6653-4575-98fb-49399d3102c2,nosehair.rip,available,7.99,,low,low,9,name.com,,,
 bafc6bf4-da00-4d4f-be44-320df5d4d28a,childsupport.rip,available,7.99,,medium,low,13,name.com,,,
-cd451d1b-38f0-449d-9aa8-1ef1e4f3d795,environment.rip,available,23.49,23.49,medium,low,11,namesilo,,,14/09/2026 05:49
+cd451d1b-38f0-449d-9aa8-1ef1e4f3d795,environment.rip,available,23.49,23.49,medium,low,11,namesilo,,,19/09/2026 04:45
 70b830bf-e31d-46a4-9e2f-b1afa8adcc47,spoken.rip,available,7.99,,medium,low,6,name.com,,,
 047f5830-e97c-4ffa-bac2-248c4e678b52,addled.rip,available,7.99,29.99,low,low,6,name.com,,,
 27846e3e-e903-47d7-9498-dd786a827acf,oldtimer.rip,available,23.49,23.49,medium,low,9,namesilo,,,08/09/2026 04:46
@@ -152,7 +152,7 @@ c67e523c-6e5b-449c-bdc5-19cf0368ec14,blanksheet.rip,available,7.99,,high,low,11,
 71696b2b-cd2e-41fc-9a6d-41e62593c735,breezy.rip,available,7.99,,high,low,6,name.com,,,
 6ee0be3d-63d8-4a87-9b7a-a99f9930572f,dateback.rip,available,7.99,,high,low,9,name.com,,,
 11b38d96-5fba-48b7-9cdc-0c2c7620e6de,bought.rip,available,7.99,,high,low,6,name.com,,,
-3a583d1d-b5f5-4b58-9cea-01b94236c9d1,IDK.rip,premium,118.8,118.8,medium,low,3,namesilo,,,
+3a583d1d-b5f5-4b58-9cea-01b94236c9d1,idk.rip,premium,118.8,118.8,medium,low,3,namesilo,,,
 42f62cc1-21bb-4ab0-8d46-300d7c00d1f7,aperient.rip,available,7.99,29.99,low,low,8,name.com,,,05/08/2026 22:09
 f12f3010-dedd-49b9-9b4b-b62a1141fe78,cometoahead.rip,available,7.99,,medium,low,14,name.com,,,
 ede36645-b833-46a5-b24d-0c62650983c2,replacement.rip,available,7.99,,medium,low,11,name.com,,,
@@ -184,7 +184,7 @@ c2ba0d88-f149-437c-b2c5-8cba9ecf8df6,sunhat.rip,available,7.99,,high,low,6,name.
 379133df-5dba-4cef-9e8e-d8e168c4eb06,behavioral.rip,available,7.99,29.99,low,low,10,name.com,,,09/08/2026 10:16
 d4033ca7-3d8e-4859-bb25-9c9e96b77903,thirteenth.rip,available,7.99,29.99,low,low,10,name.com,,,
 033c522c-9231-438d-9d70-50cc0a7966d9,liable.rip,available,7.99,,high,low,6,name.com,,,
-c99f9f64-22fd-428b-b484-a47c731ee86e,stove.rip,available,23.49,23.49,medium,low,5,namesilo,,,15/09/2026 04:20
+c99f9f64-22fd-428b-b484-a47c731ee86e,stove.rip,available,24.98,32.98,low,low,5,namecheap,,,19/09/2026 18:48
 82f25d73-03bb-4f4f-a3b0-5184f89af340,cerulean.rip,available,7.99,29.99,medium,low,8,name.com,,,08/08/2026 03:10
 a5aa5cc3-1e02-4d87-a78e-8d71c2cb55b9,vehicle.rip,available,7.99,,high,low,7,name.com,,,
 a97a3d8c-64f3-4172-99ed-5eaaaf247e31,databaseanalyst.rip,available,7.99,,medium,low,16,name.com,,,
@@ -199,8 +199,8 @@ c803d819-79bd-4aa4-aa7b-1489cf44dbe9,secured.rip,available,7.99,,high,low,7,name
 ab315773-51e3-44fa-9136-8c5ef0f01a5f,tug.rip,available,7.99,,high,low,3,name.com,,,
 6b747eca-30ce-4b3b-83ab-4d4e840c68e1,adherent.rip,available,7.99,29.99,low,low,8,name.com,,,
 afdf114c-2693-4da3-b539-66af7259bb9a,archetypal.rip,available,7.99,29.99,low,low,10,name.com,,,06/08/2026 15:32
-e1532046-548d-424c-9b3c-8f17ae447bfc,MiddleAges.rip,available,7.99,,medium,low,11,name.com,,,
-ed6d4140-c98d-425a-80b7-17a102a67199,StFrancis.rip,available,7.99,,medium,low,11,name.com,,,
+e1532046-548d-424c-9b3c-8f17ae447bfc,middleages.rip,available,7.99,,medium,low,11,name.com,,,
+ed6d4140-c98d-425a-80b7-17a102a67199,stfrancis.rip,available,7.99,,medium,low,11,name.com,,,
 25889398-785f-440a-be9f-1dd5b67ffe1d,bullying.rip,available,7.99,,medium,low,8,name.com,,,
 6e524df2-29dd-49a5-b5c3-1886fc1a3704,plug.rip,available,7.99,,high,low,4,name.com,,,
 015d6002-a3b4-4a3e-a169-8788acd051f1,she.rip,available,7.99,,high,low,3,name.com,,,
@@ -243,7 +243,7 @@ a17b5bad-5684-4364-a4c6-d8c6f5c01a4d,artmusic.rip,available,7.99,,high,low,9,nam
 b297be4e-d9fe-4158-b4bd-655849b45a62,dependon.rip,available,7.99,,high,low,9,name.com,,,
 5eb2c5d8-4807-485f-a568-85b408f5732b,batty.rip,available,7.99,29.99,low,low,5,name.com,,,06/08/2026 20:35
 ecec133d-e80b-4cf6-b7f0-99c15b625d2f,mainman.rip,available,7.99,,high,low,8,name.com,,,
-75654916-7562-4aba-aab7-1bc56465946d,age.rip,available,7.99,29.99,medium,low,3,name.com,,,14/09/2026 03:41
+75654916-7562-4aba-aab7-1bc56465946d,age.rip,available,24.98,32.98,medium,low,3,namecheap,,,19/09/2026 07:13
 f028c31b-84d2-42cd-992b-4b9eed5bde81,menu.rip,available,7.99,,high,low,4,name.com,,,
 1507db7d-d015-49a5-b466-a5e42bedc789,antigenic.rip,available,7.99,29.99,low,low,9,name.com,,,
 bfa69144-8806-4c9c-b3af-19ae5fa568a9,astounding.rip,available,7.99,,high,low,10,name.com,,,
@@ -278,7 +278,7 @@ de4c1fa4-3aba-4db8-9297-e9a3b6378bb0,passcode.rip,available,7.99,,high,low,8,nam
 769afc5f-4711-4357-bc17-bec03e14e0f9,fruitjuice.rip,available,7.99,,high,low,11,name.com,,,
 b9ecf08a-5941-4077-89d5-44999ae88846,activist.rip,available,7.99,29.99,high,low,8,name.com,,,
 094e8894-5ab9-4bff-a50c-72a91ee27e5d,warmachine.rip,available,7.99,,medium,low,11,name.com,,,
-f25663aa-9026-47cf-a959-bbd76ebc287c,Nokia.rip,available,,,high,low,5,,,,
+f25663aa-9026-47cf-a959-bbd76ebc287c,nokia.rip,available,,,high,low,5,,,,
 ffd4616f-655f-40a2-aad2-f0ff7fb69c85,yearend.rip,available,7.99,,high,low,8,name.com,,,
 7029ef11-ed7c-40b3-9597-626762c5dae6,alkaloidal.rip,available,7.99,29.99,low,low,10,name.com,,,
 2fe6cbc8-5340-45d1-ae9f-0c0353ba4b5e,perceived.rip,available,7.99,,medium,low,9,name.com,,,
@@ -327,13 +327,13 @@ aad01def-ffc2-41af-a920-b41412dc3142,apian.rip,available,7.99,29.99,low,low,5,na
 8c986035-452f-4972-b7f2-279f2c733160,appealing.rip,available,7.99,29.99,low,low,9,name.com,,,06/08/2026 05:51
 624fc65e-c088-4f3a-95eb-ae1ae2d1e3bb,jameswatt.rip,available,7.99,,high,low,10,name.com,,,
 35f4a57a-a62c-45ab-8d4d-016f0ad6eb0f,speedlimiter.rip,available,7.99,,medium,low,13,name.com,,,
-6673f1a3-56f3-4099-bc07-ec00ff8d15f6,art.rip,premium,260,260,high,medium,3,namecheap,,,
+6673f1a3-56f3-4099-bc07-ec00ff8d15f6,art.rip,premium,250,250,medium,low,3,name.com,,,19/09/2026 05:34
 fccddd16-cf43-4025-861f-a501acdcafbe,broadly.rip,available,7.99,,medium,low,7,name.com,,,
 331a5daa-388f-4e20-a9f4-24c5718ca084,myson.rip,available,7.99,,high,low,6,name.com,,,
 0d3411d8-dad5-434d-b871-56887b7e4bee,natural.rip,available,23.49,23.49,medium,low,7,namesilo,,,08/09/2026 12:12
 49f20c22-111b-48e7-8811-4fa8e7f57f3f,atstake.rip,available,7.99,,medium,low,8,name.com,,,
 79de5d01-ded0-4419-aac1-a5b25caf8d07,implausible.rip,available,7.99,,medium,low,11,name.com,,,
-dbc06152-26b3-414b-bd25-1de0cfef7d6c,exercise.rip,available,23.49,23.49,medium,low,8,namesilo,,,14/09/2026 10:49
+dbc06152-26b3-414b-bd25-1de0cfef7d6c,exercise.rip,available,23.49,23.49,medium,low,8,namesilo,,,19/09/2026 09:45
 601fffaa-d7c9-4f64-a7a4-7ebcc55c77b3,indiana.rip,premium,78.54,78.54,medium,low,7,namesilo,,,
 8fc30658-b872-437f-856a-8fbbc7b3d09e,screwabout.rip,available,7.99,,low,low,11,name.com,,,
 36eb73ac-e375-4376-b9d0-ae483d7b6179,arbitrable.rip,available,7.99,29.99,low,low,10,name.com,,,06/08/2026 12:43
@@ -350,7 +350,7 @@ b5f3313d-f7e4-4a85-88c1-dd50e34f56ae,moneyisnoobject.rip,available,7.99,,medium,
 5cd421af-19e9-479b-ad88-b27dd9882664,equivalent.rip,available,7.99,,high,low,10,name.com,,,
 7d522594-1d2e-4243-b58d-00cca83ba370,manyatimeandoft.rip,available,7.99,,medium,low,19,name.com,,,
 ffe99889-a545-45f9-953d-930a880b301e,anurous.rip,available,7.99,29.99,low,low,7,name.com,,,05/08/2026 21:27
-7a7c4627-a7a9-4d6a-bcbf-903d0418b8a6,Bets.rip,resell,,,high,low,4,"Sav.com, LLC",31/01/2024 00:53,31/01/2027 00:53,
+7a7c4627-a7a9-4d6a-bcbf-903d0418b8a6,bets.rip,resell,,,high,low,4,"Sav.com, LLC",31/01/2024 00:53,31/01/2027 00:53,
 4561237a-1e4d-42bc-9f4a-8e3cf2c7dd3c,moved.rip,available,7.99,,high,low,5,name.com,,,
 5a6abb88-2a82-4872-8855-36512ee6d97a,nominee.rip,available,7.99,,high,low,7,name.com,,,
 955345a8-01d7-4c17-8edf-4aa9fef064b6,however.rip,available,7.99,,high,low,7,name.com,,,
@@ -422,7 +422,7 @@ aea2f15e-eac2-486f-bcf0-e34d1139c14a,bychance.rip,available,7.99,,medium,low,9,n
 58718c44-8be2-4ad9-b265-6f00d7c862c6,shop.rip,resell,,,high,medium,4,"Sav.com, LLC - 2",26/04/2025 15:15,26/04/2027 15:15,
 3ef02106-7bcc-42c1-97cf-ccac5d523cf8,attachable.rip,available,7.99,29.99,low,low,10,name.com,,,07/08/2026 15:36
 6ffffeaa-0e98-45c0-b60b-9ebb9f07b9b7,grumpy.rip,available,7.99,29.99,low,low,6,name.com,,,08/08/2026 07:57
-b6af2e78-d093-460b-8061-5db4da6e438a,Iwouldratherdie.rip,available,7.99,,medium,low,18,name.com,,,
+b6af2e78-d093-460b-8061-5db4da6e438a,iwouldratherdie.rip,available,7.99,,medium,low,18,name.com,,,
 2ce4147e-0f46-4735-89db-99acb3da131b,algebraic.rip,available,7.99,29.99,low,low,9,name.com,,,
 e20502b2-7f73-4074-98d0-655d33c57868,clipthewingsof.rip,available,7.99,,high,low,17,name.com,,,
 3d34ca86-4c77-4db3-a5d3-0240fd8d82c5,wagon.rip,available,7.99,,medium,low,5,name.com,,,
@@ -440,14 +440,14 @@ f2fb8f01-c615-4dca-b718-e69b80bb62ef,achiever.rip,available,7.99,,high,low,8,nam
 bd2d38a3-d00c-46d1-ac12-72d9e608a186,tieup.rip,available,23.49,23.49,low,low,6,namesilo,,,17/09/2026 14:23
 9d750b3f-419e-43d6-92e1-03f650dc4d81,lottery.rip,available,7.99,,high,low,7,name.com,,,
 707376ca-a7c8-4188-b3b2-558345bc26c7,use.rip,available,7.99,,high,low,3,name.com,,,
-7cf4b7fd-a482-4fbe-bd92-f17fe52b1e57,UPC.rip,available,7.99,,high,low,3,name.com,,,
+7cf4b7fd-a482-4fbe-bd92-f17fe52b1e57,upc.rip,available,7.99,,high,low,3,name.com,,,
 80c95d2b-e504-44ee-9675-5acc18e7d3a2,reflexively.rip,available,7.99,,low,low,11,name.com,,,
 8df87112-4b59-421a-84f3-ce07d341a96f,domainname.rip,available,7.99,,high,low,11,name.com,,,
 c454513a-5369-411d-aae7-b5b3476ef5d8,played.rip,available,7.99,,high,low,6,name.com,,,
 5d45c272-01c9-49fb-966d-a9b010f908d2,allomerous.rip,available,7.99,29.99,low,low,10,name.com,,,
 14026c29-0e20-4ddd-be24-63a86b74e791,sulfurous.rip,available,7.99,29.99,low,low,9,name.com,,,
 de247df5-dea1-4564-ba4f-29d9ff86744e,nail.rip,available,7.99,29.99,medium,low,4,name.com,,,
-31f30ace-a781-4965-b3eb-8de7a08388dc,howdoIgetto.rip,available,7.99,,medium,low,15,name.com,,,
+31f30ace-a781-4965-b3eb-8de7a08388dc,howdoigetto.rip,available,7.99,,medium,low,15,name.com,,,
 de5163c1-5f5f-49d6-9f65-c02ddb37e3ba,amnesic.rip,available,7.99,29.99,low,low,7,name.com,,,
 9eef9e27-a305-4742-bbe4-2aa1f8af7d02,adrift.rip,available,7.99,29.99,low,low,6,name.com,,,
 bb09a238-0bdb-4836-8fde-81b4b79f70e5,suspend.rip,available,7.99,,high,low,7,name.com,,,
@@ -469,7 +469,7 @@ d78f6247-07e1-414f-88ec-d9a8754e37dd,motive.rip,available,,,high,low,6,,,,
 ea3ea4c6-6746-41fc-bc2f-8df4a8bea265,step.rip,available,7.99,,high,low,4,name.com,,,
 0419210e-f007-4da8-b266-d96a620573e2,donation.rip,available,7.99,,high,low,8,name.com,,,
 dee295dc-ec53-475b-a2e1-ad9235de3736,altruistic.rip,available,7.99,29.99,high,low,10,name.com,,,
-a7af8f6b-7bd6-45d8-82ae-11e0b89a300a,series.rip,available,23.49,23.49,medium,low,6,namesilo,,,15/09/2026 03:19
+a7af8f6b-7bd6-45d8-82ae-11e0b89a300a,series.rip,available,24.98,32.98,medium,low,6,namecheap,,,19/09/2026 17:55
 11f4ef1b-21ad-48c0-ba62-8de5beae0755,her.rip,available,7.99,,medium,low,3,name.com,,,
 7d3cf95c-68f8-4b32-b129-f1588892d524,aground.rip,available,7.99,29.99,low,low,7,name.com,,,
 b7c00a51-fb20-4fb1-8c27-9d63af424d37,definitely.rip,available,7.99,,medium,low,10,name.com,,,
@@ -478,7 +478,7 @@ a617afd0-6154-4794-8602-3375dd74cded,comeupwith.rip,available,7.99,,high,low,12,
 72043708-08ec-4742-94d1-ba009659ae31,platter.rip,available,7.99,,medium,low,7,name.com,,,
 83d15ece-9111-4194-b934-258cb7cd661e,honestly.rip,available,7.99,29.99,medium,low,8,name.com,,,
 384b9491-dbf8-4cba-b278-4d4d017f3a82,feet.rip,available,7.99,,high,low,4,name.com,,,
-4dc211ff-7f0e-48a7-a7cb-380501b3b56f,StStephen.rip,available,7.99,,medium,low,10,name.com,,,
+4dc211ff-7f0e-48a7-a7cb-380501b3b56f,ststephen.rip,available,7.99,,medium,low,10,name.com,,,
 a2877d53-4be4-471e-8a2d-d90a09383a3a,barefaced.rip,available,7.99,29.99,low,low,9,name.com,,,08/08/2026 09:20
 74aec0a2-15b7-496f-b19d-5d6664630aba,givenotice.rip,available,7.99,,medium,low,11,name.com,,,
 2e2a1488-85ed-449e-bc5e-cb4c2d6b05cb,breathoffreshair.rip,available,7.99,,high,low,19,name.com,,,
@@ -545,7 +545,7 @@ b936b20b-85c0-44d8-98c2-b77c08a74522,algonquian.rip,available,7.99,29.99,low,low
 a16a0cea-675d-4562-b7ee-8f362900f1e7,dogshot.rip,available,7.99,,high,low,8,name.com,,,
 2078c111-09bf-4766-9eec-8251e2d10a6a,shining.rip,available,7.99,,high,low,7,name.com,,,
 e8f488fd-a210-4a6e-a255-3547bad7602d,shallow.rip,available,7.99,,medium,low,7,name.com,,,
-3e3d29d0-caf7-4fd3-80a2-6814f9270073,WorldWarII.rip,available,7.99,,low,low,12,name.com,,,
+3e3d29d0-caf7-4fd3-80a2-6814f9270073,worldwarii.rip,available,7.99,,low,low,12,name.com,,,
 cd98da1b-ca21-4672-9d8d-97bef351b067,acoustical.rip,available,7.99,29.99,low,low,10,name.com,,,
 1fa6105d-529c-4ad5-872a-b6eff52fc2fd,unlocking.rip,available,7.99,,high,low,9,name.com,,,
 66f104e1-5900-45e2-b2b4-1caceea969f5,lake.rip,available,7.99,,high,low,4,name.com,,,
@@ -555,10 +555,10 @@ cd98da1b-ca21-4672-9d8d-97bef351b067,acoustical.rip,available,7.99,29.99,low,low
 3d82b20b-6ec4-4568-9077-afc28646ff57,astomatous.rip,available,7.99,29.99,low,low,10,name.com,,,07/08/2026 09:45
 17bdd103-d04e-49f8-9896-4308f6319c09,peeled.rip,available,7.99,29.99,low,low,6,name.com,,,08/08/2026 18:24
 a093864c-38b8-42bd-9741-eda37996dffb,likenightandday.rip,available,7.99,,medium,low,18,name.com,,,
-a7765582-d5f6-419b-b4f1-5feca091e357,WhiteSox.rip,available,,,medium,low,9,,,,
+a7765582-d5f6-419b-b4f1-5feca091e357,whitesox.rip,available,,,medium,low,9,,,,
 8f662a60-d77e-4904-9128-f7008a25a2a3,issue.rip,available,7.99,,high,low,5,name.com,,,
 81f53a31-a0bd-4e11-ac1a-b7fe2623a240,rudimentary.rip,available,7.99,,high,low,11,name.com,,,
-8e59c77b-cbfe-49b7-a9b6-e3eab7bc9066,Points.rip,available,7.99,,medium,low,6,name.com,,,
+8e59c77b-cbfe-49b7-a9b6-e3eab7bc9066,points.rip,available,7.99,,medium,low,6,name.com,,,
 5f30d44d-d648-4ce2-953d-39666612e441,infact.rip,available,7.99,,high,low,7,name.com,,,
 385ee725-1246-463c-a279-92c964a4fffb,dress.rip,available,7.99,29.99,high,low,5,name.com,,,
 7e3f53c6-0b09-43b7-a393-1f826eef03eb,pita.rip,available,7.99,,high,low,4,name.com,,,
@@ -567,7 +567,7 @@ a7765582-d5f6-419b-b4f1-5feca091e357,WhiteSox.rip,available,,,medium,low,9,,,,
 2d73236c-f3b4-4fd8-a4c9-6d1a49c012fd,daddy.rip,available,7.99,,high,low,5,name.com,,,
 3a1db8c6-6d1a-424f-82d5-ad5d3fe00196,paul.rip,available,7.99,,high,medium,4,name.com,,,
 4088ec12-7d1b-4504-9e57-a8c4d77f5aa1,goodrun.rip,available,7.99,,high,low,8,name.com,,,
-3195f711-dcd7-453a-ba75-27613ca0a2f6,WorldExpo.rip,available,7.99,,medium,low,10,name.com,,,
+3195f711-dcd7-453a-ba75-27613ca0a2f6,worldexpo.rip,available,7.99,,medium,low,10,name.com,,,
 4592441e-bbeb-48bf-ae4a-aecbd8a6d594,whom.rip,available,7.99,,low,low,4,name.com,,,
 54c9a77e-02dc-427d-92a8-8913cf779be5,encouraging.rip,available,7.99,,high,low,11,name.com,,,
 7e8a1242-9519-4574-99f2-ddccebe107ed,auxiliary.rip,available,7.99,29.99,low,low,9,name.com,,,
@@ -584,19 +584,19 @@ ced66671-8376-468a-9db3-7be6b810cdb5,unity.rip,available,7.99,29.99,high,low,5,n
 059a4bef-c4af-4262-bdcc-cb557db0272e,proclaimed.rip,available,7.99,,medium,low,10,name.com,,,
 18e1b286-001f-4103-8380-52bb81003876,butcher.rip,available,,,medium,low,7,,,,
 e9cdc4ac-d3c0-458a-9b9c-ee6215fc99aa,luckout.rip,available,7.99,,high,low,8,name.com,,,
-f1831547-5265-4555-8f20-b674a0d9508c,Spotify.rip,available,,,high,low,7,,,,
+f1831547-5265-4555-8f20-b674a0d9508c,spotify.rip,available,,,high,low,7,,,,
 af0772e8-241d-4f07-9f9f-fa0eca6b6932,inthehotseat.rip,available,7.99,,medium,low,15,name.com,,,
 211842f7-e46d-4c65-90d6-70f1e6ffeb78,oneself.rip,available,7.99,,high,low,7,name.com,,,
 54838b80-6af3-467c-a9fd-29a3c8fd20e1,aspect.rip,available,7.99,,high,low,6,name.com,,,
 7bba0e87-f818-486a-95c1-c5fc51a492bb,indeed.rip,available,,,high,low,6,,,,
-f7776978-e9e8-4ad8-b66d-a1df405d87b1,VSCOgirl.rip,available,7.99,,medium,low,9,name.com,,,
+f7776978-e9e8-4ad8-b66d-a1df405d87b1,vscogirl.rip,available,7.99,,medium,low,9,name.com,,,
 99f0845e-5698-4701-9c2f-a08a4265d4e6,abide.rip,available,7.99,,high,low,5,name.com,,,
 b6f9f507-9463-4eb5-ab37-d87eb8de6da2,affinity.rip,available,,,high,low,8,,,,
 791bf152-1909-4a3c-b2bf-e44e5a0cd397,studentloan.rip,available,7.99,,medium,low,12,name.com,,,
 113c6889-087e-4a9e-863a-26d681475f6d,inspire.rip,available,7.99,,high,low,7,name.com,,,
 2fa96756-545f-48fe-9545-c79784d6d820,commend.rip,available,7.99,,high,low,7,name.com,,,
 f3568e5c-87d8-4450-9ae4-ad57d01773fd,nonplused.rip,available,7.99,29.99,low,low,9,name.com,,,07/08/2026 10:43
-f86ffc22-30cc-49dc-90e3-594501e7adc0,midSeptember.rip,available,7.99,,high,low,13,name.com,,,
+f86ffc22-30cc-49dc-90e3-594501e7adc0,midseptember.rip,available,7.99,,high,low,13,name.com,,,
 ce13edf4-96de-4e09-9ec9-7b27a60098a7,humble.rip,available,7.99,,high,low,6,name.com,,,
 77b5c811-245f-4ffd-b97e-ebf42f47b554,awry.rip,available,7.99,29.99,low,low,4,name.com,,,
 566de7e7-78d2-413a-81f9-ef212dc99c62,ghostly.rip,available,7.99,29.99,low,low,7,name.com,,,06/08/2026 05:28
@@ -628,7 +628,7 @@ aeba9a51-e997-4757-9053-510f8c13084a,thisafternoon.rip,available,7.99,,low,low,1
 6b286d13-1404-4ac7-b33b-47746a641e0f,advocate.rip,available,7.99,,high,low,8,name.com,,,
 4135c94b-1809-4861-99cd-21ab672f3db9,axile.rip,available,7.99,29.99,low,low,5,name.com,,,08/08/2026 01:56
 581e05bf-1163-4aa3-9f17-c1e1c6d2b48a,asiatic.rip,available,7.99,29.99,low,low,7,name.com,,,07/08/2026 02:29
-8a63126f-638d-4cb8-b8eb-452764c701dc,alleyway.rip,available,23.49,23.49,low,low,8,namesilo,,,14/09/2026 02:34
+8a63126f-638d-4cb8-b8eb-452764c701dc,alleyway.rip,available,23.49,23.49,low,low,8,namesilo,,,19/09/2026 04:05
 c6809e04-1b14-4113-a9bf-a407e0f2110c,intrinsic.rip,available,7.99,,high,low,9,name.com,,,
 37c3fa27-9210-4bc0-b81d-2e429e498a9d,reading.rip,available,7.99,,medium,low,7,name.com,,,
 5551cc5a-62e8-477b-ab1b-9dc1b311665c,devour.rip,available,7.99,,high,low,6,name.com,,,
@@ -668,7 +668,7 @@ f3f51291-6de7-419d-856a-04a02f07ab52,impressed.rip,available,7.99,,medium,low,9,
 99024b87-c9ea-4260-9366-9177d04e93bd,accentual.rip,available,7.99,29.99,low,low,9,name.com,,,
 05d61727-a99e-4146-828d-d436a97a055f,retracted.rip,available,7.99,,medium,low,9,name.com,,,
 dad51795-b978-431c-ae98-388bfe9534a3,desktop.rip,available,7.99,,high,low,7,name.com,,,
-18acbb90-f3dc-47c2-b6b0-3f3d3cc5e4bd,DSLR.rip,available,7.99,,high,low,4,name.com,,,
+18acbb90-f3dc-47c2-b6b0-3f3d3cc5e4bd,dslr.rip,available,7.99,,high,low,4,name.com,,,
 33ca892b-49fc-46c9-b0cc-be2f51f23e45,naturalgas.rip,available,7.99,,low,low,11,name.com,,,
 1784b421-1848-4a4d-bd61-16c2ef6da120,madrid.rip,premium,78.54,78.54,high,low,6,namesilo,,,
 8bdd9e8b-346d-408c-bec0-734cba69e473,heatwave.rip,available,7.99,,medium,low,9,name.com,,,
@@ -677,7 +677,7 @@ cfcf48f2-a432-49c9-87a1-de35c97d2f16,pratabout.rip,available,7.99,,low,low,10,na
 3f858ef5-c41c-44f5-ad43-f6b4c2a8c233,trolling.rip,available,7.99,,medium,low,8,name.com,,,
 a6488730-8df2-44bf-afb2-25de2eedcfdb,purposes.rip,available,7.99,,low,low,8,name.com,,,
 4d050506-baf0-4337-a078-da221d5448e6,shift.rip,available,7.99,,high,medium,5,name.com,,,
-4fb8b4ba-220b-4944-89e0-698f1bd99081,management.rip,available,23.49,23.49,medium,low,10,namesilo,,,08/09/2026 04:55
+4fb8b4ba-220b-4944-89e0-698f1bd99081,management.rip,available,23.49,23.49,medium,low,10,namesilo,,,19/09/2026 14:24
 4a43d381-6ac4-4e85-a122-54c3e348c323,lacking.rip,available,7.99,,high,low,7,name.com,,,
 9679532b-fce5-4c66-96f9-2f9e245aeb88,awakening.rip,available,7.99,,high,low,9,name.com,,,
 557cf66a-4d6f-4926-bc4d-8ea7f573d660,subtle.rip,available,7.99,,high,low,6,name.com,,,
@@ -702,8 +702,8 @@ e47d1697-1931-4c01-8e33-033064e0e229,activating.rip,available,7.99,29.99,low,low
 d91188f8-6482-4299-8cd7-5a570c645637,apraxic.rip,available,7.99,29.99,low,low,7,name.com,,,06/08/2026 09:55
 5af45c6d-10f0-4e4a-827a-7a5ebf80ac9c,apocrine.rip,available,7.99,29.99,low,low,8,name.com,,,06/08/2026 01:05
 b3f2e67d-46cc-4aae-909b-2ec8db1787e4,mere.rip,available,7.99,,medium,low,4,name.com,,,
-04d0ce2b-7df2-4bf1-bf02-1b3f12621f11,Lions.rip,available,7.99,,high,low,5,name.com,,,
-9a5fb756-70eb-4e7e-a2ba-a79baa9f558e,UnitedKingdom.rip,available,,,low,low,14,,,,
+04d0ce2b-7df2-4bf1-bf02-1b3f12621f11,lions.rip,available,7.99,,high,low,5,name.com,,,
+9a5fb756-70eb-4e7e-a2ba-a79baa9f558e,unitedkingdom.rip,available,,,low,low,14,,,,
 4d0a351b-8eca-4c70-a815-9e8f51d9ca17,speedoflight.rip,available,7.99,,low,low,14,name.com,,,
 c088e3f8-0b59-4f63-aa82-fab0ae2128da,determine.rip,available,7.99,,high,low,9,name.com,,,
 dff9322c-f12f-46f9-b542-4b86f271458a,brush.rip,available,7.99,,medium,low,5,name.com,,,
@@ -724,7 +724,7 @@ c12f3451-c81d-4b0b-8372-94e1cdec75f4,anecdotic.rip,available,7.99,29.99,low,low,
 ad2099f2-bc72-4071-b99e-9d2c6c6c392c,ground.rip,available,7.99,,high,low,6,name.com,,,
 d413b4cb-c92e-405b-b48f-6890be15a42d,according.rip,available,7.99,29.99,low,low,9,name.com,,,
 9af970ce-7377-49f7-93d4-e22345f6ada6,abkhas.rip,available,7.99,29.99,low,low,6,name.com,,,
-c1daf604-b0ea-4d86-81fa-421e903af942,medicine.rip,available,7.99,,high,low,8,name.com,,,
+c1daf604-b0ea-4d86-81fa-421e903af942,medicine.rip,available,23.49,23.49,medium,low,8,namesilo,,,20/09/2026 02:42
 4b7fbaa0-4e56-4a0d-a737-f2555a799662,merrymen.rip,available,7.99,,high,low,9,name.com,,,
 7864f580-b1c9-4b31-8ca7-85f7b9c7430b,hair.rip,available,7.99,,high,low,4,name.com,,,
 3efdfd68-c674-4c56-87df-ce3a7a844298,streetart.rip,available,7.99,,medium,low,10,name.com,,,
@@ -749,13 +749,13 @@ a964ad9b-aebe-44d7-abeb-a49a8e82451e,bryan.rip,available,7.99,,medium,low,5,name
 593ffc31-6650-417a-a924-e0425cd3793e,graspable.rip,available,7.99,29.99,low,low,9,name.com,,,06/08/2026 08:18
 830aab82-089c-4a36-b4ec-fdad2f6045e6,champagne.rip,available,7.99,,high,low,9,name.com,,,
 87cba85e-f83f-4311-9307-17fe283d7246,save.rip,resell,,,high,low,4,Dynadot Inc,22/01/2026 17:01,22/01/2027 17:01,
-a393431c-1812-4f76-9105-6e9b4fec0116,IKiribati.rip,available,7.99,,high,low,10,name.com,,,
+a393431c-1812-4f76-9105-6e9b4fec0116,ikiribati.rip,available,7.99,,high,low,10,name.com,,,
 77825be4-7a22-44bb-84e4-fa44b0cec066,aussie.rip,available,7.99,,high,low,6,name.com,,,
 41ed3abf-d2f9-4701-b3bb-9ad6e74663cb,agreed.rip,available,7.99,29.99,high,low,6,name.com,,,
 51193126-10ba-4ef4-b401-7507dadf9d75,militant.rip,available,7.99,29.99,low,low,8,name.com,,,
 bd3e27ef-6636-4c5b-9d64-042258ac30ea,guide.rip,available,,,high,low,5,,,,
 f46aa6c0-b5bc-4dd6-92e7-02cc8e336874,ancestral.rip,available,7.99,29.99,medium,low,9,name.com,,,
-84870921-d1b3-4be9-97c6-12ad6fb41196,Rhiannon.rip,available,7.99,,high,low,8,name.com,,,
+84870921-d1b3-4be9-97c6-12ad6fb41196,rhiannon.rip,available,7.99,,high,low,8,name.com,,,
 1d421933-6ed4-40b0-9b4d-8695cd67c770,industrialize.rip,available,7.99,,medium,low,13,name.com,,,
 73f8e359-dc24-4ab9-bd7f-d35f856597af,upto.rip,available,7.99,,medium,low,5,name.com,,,
 032949e7-bcb0-4e4a-87c9-4f3503baa432,actinal.rip,available,7.99,29.99,low,low,7,name.com,,,
@@ -781,7 +781,7 @@ efcd1828-5627-4038-97d6-1a1eb7fa669a,panda.rip,premium,71.4,71.4,high,medium,5,n
 5b256f2e-1e31-407f-913c-403f658d987f,cherryonthecake.rip,available,7.99,,medium,low,18,name.com,,,
 401f3894-e106-435a-a885-6b33e25ac230,kitchensink.rip,available,7.99,,medium,low,12,name.com,,,
 a9ca1c2d-6aae-46b4-9504-0a3ec3b94a20,documentation.rip,available,7.99,,medium,low,13,name.com,,,
-36636c8c-923b-4815-9ec3-722f50c1c3be,Eliza.rip,available,7.99,,high,low,5,name.com,,,
+36636c8c-923b-4815-9ec3-722f50c1c3be,eliza.rip,available,7.99,,high,low,5,name.com,,,
 e4523440-4849-4df7-a347-05acd7f230a2,balanced.rip,available,7.99,,high,low,8,name.com,,,
 050853f6-69d8-4728-b4fb-59b5f1225bff,lightuparoom.rip,available,7.99,,high,low,15,name.com,,,
 6d064c60-1222-4590-8dc5-093aa2396378,substitution.rip,available,7.99,,low,low,12,name.com,,,
@@ -812,9 +812,9 @@ bb3feec3-44e8-4bf8-9dff-073f094777e9,android.rip,available,,,high,medium,7,,,,
 d94c06ed-5405-416b-a516-e33de35b3cb6,wicked.rip,available,7.99,,medium,low,6,name.com,,,
 c865a8f3-14d9-4e49-9f40-2dfe1b934b27,awned.rip,available,7.99,29.99,low,low,5,name.com,,,08/08/2026 01:16
 52969a22-776a-4678-9c7a-be0d8d3530b7,experimentally.rip,available,7.99,,medium,low,14,name.com,,,
-d5c763ed-7b96-4ff8-8b8a-440962a7e97a,UnitedStates.rip,available,,,low,low,13,,,,
+d5c763ed-7b96-4ff8-8b8a-440962a7e97a,unitedstates.rip,available,,,low,low,13,,,,
 597c0e88-a0fb-41c4-b1f7-78ba53fb7a98,expedite.rip,available,7.99,,high,low,8,name.com,,,
-f3c950e1-532d-4962-af09-12bbe8744d9e,ISBN.rip,available,7.99,,high,low,4,name.com,,,
+f3c950e1-532d-4962-af09-12bbe8744d9e,isbn.rip,available,7.99,,high,low,4,name.com,,,
 87c67229-f9ee-44ee-82ef-bd2712d93a4e,constructive.rip,available,7.99,,medium,low,12,name.com,,,
 6c69eb6d-90ed-4b77-abe4-5fe633cd9786,anyone.rip,available,7.99,,medium,low,6,name.com,,,
 cd747456-40c7-44b5-8daf-ceb39cc732c2,boxcoat.rip,available,7.99,,medium,low,8,name.com,,,
@@ -823,16 +823,16 @@ cd747456-40c7-44b5-8daf-ceb39cc732c2,boxcoat.rip,available,7.99,,medium,low,8,na
 63a55b1d-df57-4e81-b433-ce0af9099ace,artnouveau.rip,available,7.99,,medium,low,11,name.com,,,
 237593e3-289f-4508-b312-2395e259685b,setloose.rip,available,7.99,,low,low,9,name.com,,,
 db0fdddc-85e2-4e8a-99f9-1cfda5840d4a,sixer.rip,available,7.99,29.99,low,low,5,name.com,,,
-bf480af5-6e7e-40c5-8dea-c2aec62c8fd9,NorthKorea.rip,available,7.99,,low,low,11,name.com,,,
-3934262b-58af-4d22-b073-298dc31e1e8d,veggie.rip,available,24.98,32.98,medium,low,6,namecheap,,,13/09/2026 19:20
+bf480af5-6e7e-40c5-8dea-c2aec62c8fd9,northkorea.rip,available,7.99,,low,low,11,name.com,,,
+3934262b-58af-4d22-b073-298dc31e1e8d,veggie.rip,available,23.49,23.49,medium,low,6,namesilo,,,19/09/2026 06:34
 72c95630-6afb-4fa3-8e4f-bf14823fcf67,countycourt.rip,available,7.99,,medium,low,12,name.com,,,
 a8060a09-25d0-4ece-9c1d-d2c571b7299b,driving.rip,available,7.99,29.99,high,low,7,name.com,,,
 7c57ede0-3a0b-48ab-ae93-de82f25d5a82,grocerylist.rip,available,7.99,,medium,low,12,name.com,,,
 a5445540-09e0-404b-b093-c09800e5b721,gay.rip,premium,71.4,71.4,high,medium,3,namesilo,,,
 46f17d24-fbef-42ef-a2aa-72ff0d1abefe,youknowwhat.rip,available,7.99,,low,low,13,name.com,,,
-5ffdc110-575a-42f2-aa95-0650b9fe5ccf,Iseeyou.rip,available,7.99,,medium,low,9,name.com,,,
+5ffdc110-575a-42f2-aa95-0650b9fe5ccf,iseeyou.rip,available,7.99,,medium,low,9,name.com,,,
 ff8de602-3dd5-45f0-b58c-188290aa8ded,aurorean.rip,available,7.99,29.99,low,low,8,name.com,,,07/08/2026 18:12
-45f24a20-17f5-4d2d-8d85-bec4653d202b,NASAsupported.rip,available,7.99,,low,low,14,name.com,,,
+45f24a20-17f5-4d2d-8d85-bec4653d202b,nasasupported.rip,available,7.99,,low,low,14,name.com,,,
 c71d898b-1ffa-44bb-8a5a-418754612e1a,nothankyou.rip,available,7.99,,medium,low,12,name.com,,,
 63fec2dd-a53c-4b02-9154-68a61bf4b5de,nobudy.rip,available,7.99,,medium,low,6,name.com,,,
 bb0ca960-7ea3-486d-a174-bf0a349c57ef,passinggrade.rip,available,7.99,,medium,low,13,name.com,,,
@@ -865,7 +865,7 @@ f7b5b3d6-5f98-446b-a476-0138b44cb396,outside.rip,available,7.99,29.99,medium,low
 ea1e6990-116d-4f54-a017-e20d35738b4f,interested.rip,available,7.99,,high,low,10,name.com,,,
 c96ebd0f-d317-473b-a014-29099a93a14d,breathefreely.rip,available,7.99,,high,low,14,name.com,,,
 21c40528-d530-4e42-8105-cf55996cc4a9,punishing.rip,available,7.99,29.99,low,low,9,name.com,,,06/08/2026 17:10
-6385357c-47c2-434e-acb6-71b7328d05aa,terminated.rip,available,23.49,23.49,low,low,10,namesilo,,,13/09/2026 03:53
+6385357c-47c2-434e-acb6-71b7328d05aa,terminated.rip,available,23.49,23.49,low,low,10,namesilo,,,19/09/2026 16:25
 343a80cb-278c-46d8-a8b0-2876d486a0f4,gotowork.rip,available,7.99,,medium,low,10,name.com,,,
 dd1046b1-12e8-4f23-a6a9-9b0fdf233a87,airportnovel.rip,available,23.49,23.49,low,low,13,namesilo,,,08/09/2026 03:28
 16e34d7b-2be7-49bc-8963-193a8ea60257,services.rip,available,7.99,,high,low,8,name.com,,,
@@ -894,12 +894,12 @@ d09fca34-75ce-4cca-b70d-36f9b188d058,apsidal.rip,available,7.99,29.99,low,low,7,
 9c8d8046-b1a3-42a9-89b2-e59cf261341e,brightness.rip,available,7.99,,high,low,10,name.com,,,
 13f47455-f810-4bea-8a52-afc1f40435d0,setsail.rip,available,7.99,,medium,low,8,name.com,,,
 7f9da9cb-6707-4aa6-8c33-551110bdd240,atthecoalface.rip,available,7.99,,medium,low,16,name.com,,,
-5ae7fa56-ee62-4464-b842-ae2fd21c7c88,Godknows.rip,available,7.99,,medium,low,9,name.com,,,
+5ae7fa56-ee62-4464-b842-ae2fd21c7c88,godknows.rip,available,7.99,,medium,low,9,name.com,,,
 519ca7e6-03cb-4a41-8fda-35c631e1de6e,visibility.rip,available,7.99,,high,low,10,name.com,,,
 7372371e-d5ad-406a-a3df-7e65d89a6715,born.rip,available,7.99,,high,low,4,name.com,,,
 52b667d6-8266-43f9-b05b-44df4f091333,styptic.rip,available,7.99,29.99,low,low,7,name.com,,,07/08/2026 10:00
 96abcfb4-ce04-4f74-99d3-4b67f07d5493,human.rip,resell,,,high,medium,5,Dynadot Inc,19/06/2025 17:01,19/06/2026 17:01,
-af7d3cd7-466a-44f9-9156-2d1948568bc7,hat.rip,available,23.49,23.49,medium,low,3,namesilo,,,13/09/2026 03:50
+af7d3cd7-466a-44f9-9156-2d1948568bc7,hat.rip,available,24.98,32.98,low,low,3,namecheap,,,19/09/2026 16:21
 36c76cbc-07c8-40b1-bd63-2a94582e8f6e,afflicted.rip,available,7.99,29.99,low,low,9,name.com,,,
 afe49adb-a2e3-469f-ab1d-5d802a00f364,firstaid.rip,available,7.99,,high,low,9,name.com,,,
 19be7025-18d1-4f6f-98c8-372e2e08543d,civilwar.rip,available,7.99,,medium,low,9,name.com,,,
@@ -918,7 +918,7 @@ bc904fd3-f2e3-48cc-a568-038e0b4749c3,parkingticket.rip,available,7.99,,medium,lo
 3c0833a9-ae3a-4d57-b0ea-a7b5706577b2,affectionate.rip,available,7.99,,high,low,12,name.com,,,
 f4bf2a17-0e34-4eb2-ba97-5eca57230a86,nutty.rip,available,7.99,29.99,low,low,5,name.com,,,06/08/2026 21:27
 2f3f4317-e206-4009-9193-c917b578a1cc,wannabe.rip,available,7.99,29.99,low,low,7,name.com,,,07/08/2026 05:17
-973b3388-2363-4dc5-a275-e4d5babea815,journal.rip,resell,,,medium,low,7,Dynadot Inc,16/02/2026 17:00,16/02/2027 17:00,15/09/2026 03:33
+973b3388-2363-4dc5-a275-e4d5babea815,journal.rip,resell,,,medium,low,7,Dynadot Inc,16/02/2026 17:00,16/02/2027 17:00,19/09/2026 18:05
 0dbc745f-d1c5-43d4-aa14-ff353bd3f457,attract.rip,available,7.99,,high,low,7,name.com,,,
 a6879c4e-0048-428f-ba66-9c4fee792bd8,monitor.rip,available,7.99,,medium,low,7,name.com,,,
 cac998f5-58d7-4e1f-ae1a-faa4cf5e7b0d,marvel.rip,available,7.99,,high,low,6,name.com,,,
@@ -929,7 +929,7 @@ a64c3915-8b73-4f2c-b60d-c8f5eb7d80a6,xcvi.rip,available,7.99,29.99,low,low,4,nam
 3d42a730-ca34-4a1f-bb5a-c8ef84c94d34,lasting.rip,available,7.99,29.99,high,low,7,name.com,,,
 a2946745-c25c-41a7-9894-f9b716d4a4cd,muckabout.rip,available,7.99,,low,low,10,name.com,,,
 7ffba223-b982-4ca4-aa2f-6d656382b387,dances.rip,available,7.99,,medium,low,6,name.com,,,
-9ae6978f-09c9-4399-baef-345dbce263bf,Remington.rip,available,7.99,,high,low,9,name.com,,,
+9ae6978f-09c9-4399-baef-345dbce263bf,remington.rip,available,7.99,,high,low,9,name.com,,,
 9311824f-3f36-454b-b043-49812506bab0,shakehands.rip,available,7.99,,medium,low,11,name.com,,,
 b5c12a70-05cb-432c-bece-5dc853f835ad,correct.rip,available,7.99,29.99,high,low,7,name.com,,,
 c4948023-ddc5-4369-89ca-a0a9c14760b1,slowness.rip,available,7.99,,medium,low,8,name.com,,,
@@ -937,16 +937,14 @@ be9d3aa2-2cc0-4f2c-a225-dcc1606419b2,bake.rip,available,7.99,,high,low,4,name.co
 e2c03d05-d7d2-4652-b4ef-ca5b80476d0f,terrifying.rip,available,7.99,,medium,low,10,name.com,,,
 c178ce7e-86ca-4863-8034-4f9168bcece5,those.rip,available,7.99,,medium,low,5,name.com,,,
 2f8f1e20-a6a5-4e01-98e9-d5bf9de81735,jetace.rip,available,7.99,,medium,low,7,name.com,,,
-0cecb89b-3539-4368-8cbf-50066a6eb591,artistry.rip,available,,,high,low,8,,,,
 ac4e98c9-18cc-4f57-9c2b-115742abed58,hexad.rip,available,7.99,29.99,low,low,5,name.com,,,
 94442c00-942e-4469-845f-cb122a1c47ba,discourse.rip,available,7.99,29.99,high,low,9,name.com,,,
 1fb248eb-40e4-4710-9075-7aee8de38afc,dedicated.rip,available,7.99,29.99,high,low,9,name.com,,,
-1e2ad8f4-e452-4f08-9f24-41417d3a196f,justice.rip,available,7.99,,high,low,7,name.com,,,
 401aded1-14b9-4173-9b04-6036ea847199,adapted.rip,available,7.99,29.99,high,low,7,name.com,,,
 b6497746-541a-43c1-a33d-eb0e6b77d1b3,subalpine.rip,available,7.99,29.99,low,low,9,name.com,,,
 4bcc87a3-12e3-4a08-a94b-568985465fd2,overhang.rip,available,7.99,29.99,low,low,8,name.com,,,09/08/2026 08:28
 f49cec48-aad3-43ea-b299-edebf98f7b11,maintain.rip,available,7.99,,high,low,8,name.com,,,
-568a60f8-795f-423b-a847-6190589c5715,WestVirginia.rip,premium,118.8,118.8,low,low,13,namesilo,,,
+568a60f8-795f-423b-a847-6190589c5715,westvirginia.rip,premium,118.8,118.8,low,low,13,namesilo,,,
 1f11922a-9d23-481d-aa6f-aae6de2010e9,propose.rip,available,7.99,,high,low,7,name.com,,,
 63ae35ed-19ee-4b1f-a253-91648640a8d8,left.rip,available,7.99,,high,low,4,name.com,,,
 20d5cc1d-0994-4b9f-87d8-0d938ff45f9c,addition.rip,available,7.99,,high,low,8,name.com,,,
@@ -999,3 +997,5 @@ ba78d75f-12eb-4b6c-b413-8ad07b968704,endup.rip,available,7.99,,high,low,6,name.c
 4ae0aeb1-7ecc-4ec0-963c-2e75584058ee,healthcare.rip,available,7.99,,high,low,10,name.com,,,
 e8b891f2-a6ba-4a35-a08a-58578f661704,invite.rip,available,7.99,,high,low,6,name.com,,,
 2091c33a-8442-4cee-aa62-b020286024ce,quieter.rip,available,7.99,,high,low,7,name.com,,,
+af8c2c92-c3e2-43f3-80ae-848948d97ed8,chemistry.rip,available,7.99,,high,low,9,name.com,,,
+0ae484a9-19e1-4023-ab17-18e26db8e272,mouthcare.rip,available,7.99,,low,low,9,name.com,,,

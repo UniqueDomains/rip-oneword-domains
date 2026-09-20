@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rip one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,512 domains · **Median ask:** $14.05 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/rip`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| correct.rip | available | $7.99     | $29.99        | high           | low    | 7      | name.com            |
-| age.rip     | available | $7.99     | $29.99        | medium         | low    | 3      | name.com            |
-| cat.rip     | resell    | —         | —             | high           | high   | 3      | united-domains GmbH |
-| art.rip     | premium   | $260      | $260          | high           | medium | 3      | namecheap           |
-| aid.rip     | available | $7.99     | —             | medium         | low    | 3      | name.com            |
-| Bets.rip    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC        |
-| ben.rip     | premium   | $71.40    | $71.40        | high           | medium | 3      | namesilo            |
-| awe.rip     | available | $7.99     | —             | high           | low    | 3      | name.com            |
-| save.rip    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc         |
-| gay.rip     | premium   | $71.40    | $71.40        | high           | medium | 3      | namesilo            |
-| beg.rip     | available | $7.99     | —             | medium         | low    | 3      | name.com            |
-| shop.rip    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 2    |
-| IDK.rip     | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo            |
-| dew.rip     | available | $7.99     | —             | medium         | low    | 3      | name.com            |
-| taco.rip    | resell    | —         | —             | high           | low    | 4      | Porkbun LLC         |
-| sub.rip     | premium   | $35.40    | $35.40        | high           | low    | 3      | namesilo            |
-| due.rip     | available | $7.99     | —             | high           | low    | 3      | name.com            |
-| bloom.rip   | resell    | —         | —             | high           | medium | 5      | Dynadot Inc         |
-| ten.rip     | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com            |
-| hat.rip     | available | $23.49    | $23.49        | medium         | low    | 3      | namesilo            |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| age.rip   | available | $24.98    | $32.98        | medium         | low    | 3      | namecheap           |
+| cat.rip   | resell    | —         | —             | high           | high   | 3      | united-domains GmbH |
+| art.rip   | premium   | $250      | $250          | medium         | low    | 3      | name.com            |
+| aid.rip   | available | $7.99     | —             | medium         | low    | 3      | name.com            |
+| bets.rip  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC        |
+| ben.rip   | premium   | $71.40    | $71.40        | high           | medium | 3      | namesilo            |
+| awe.rip   | available | $7.99     | —             | high           | low    | 3      | name.com            |
+| save.rip  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc         |
+| gay.rip   | premium   | $71.40    | $71.40        | high           | medium | 3      | namesilo            |
+| beg.rip   | available | $7.99     | —             | medium         | low    | 3      | name.com            |
+| shop.rip  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 2    |
+| idk.rip   | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo            |
+| dew.rip   | available | $7.99     | —             | medium         | low    | 3      | name.com            |
+| taco.rip  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC         |
+| sub.rip   | premium   | $35.40    | $35.40        | high           | low    | 3      | namesilo            |
+| due.rip   | available | $7.99     | —             | high           | low    | 3      | name.com            |
+| bloom.rip | resell    | —         | —             | high           | medium | 5      | Dynadot Inc         |
+| ten.rip   | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com            |
+| hat.rip   | available | $24.98    | $32.98        | low            | low    | 3      | namecheap           |
+| human.rip | resell    | —         | —             | high           | medium | 5      | Dynadot Inc         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RIP One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RIP One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
