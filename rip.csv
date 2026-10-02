@@ -2,17 +2,20 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 41779b58-decd-4c1c-874f-010e899e9502,dealers.rip,available,24.5,,medium,low,7,unstoppable,,,28/09/2026 09:08
 af5ad021-842a-4ea5-9063-32d2790f16b9,restoration.rip,available,18.83,18.83,high,low,11,spaceship,,,30/09/2026 06:15
 44d45b28-7008-4e86-a51c-c1c001c71283,residual.rip,available,23.49,23.49,high,low,8,namesilo,,,09/09/2026 14:59
+a192c192-1c09-415f-a65d-e7cd20fc06fb,howdy.rip,available,18.83,18.83,high,low,5,spaceship,,,02/10/2026 05:13
 5b96cb94-e156-48f6-b7e6-5c8b355d1b20,distributive.rip,available,18.83,18.83,high,low,12,spaceship,,,29/09/2026 21:23
 eeae75ca-fb2a-4b81-ae80-66e4d4907530,hustle.rip,available,24.98,32.98,high,low,6,namecheap,,,17/09/2026 09:12
 797da28e-3b97-447a-8955-a497eaf4455d,stained.rip,available,24.98,32.98,medium,low,7,namecheap,,,10/09/2026 18:14
 12b60b5a-4a95-4131-9af1-4b76edd4a98e,marsha.rip,available,18.2,18.2,high,low,6,cloudflare,,,30/09/2026 04:40
 c1d398b0-a8b1-42d2-a25a-c92077fa49e8,hodge.rip,available,23.49,23.49,medium,low,5,namesilo,,,29/09/2026 15:06
 1c83f721-4fa3-4dd8-9f6a-a91123be2e5c,tout.rip,available,7.99,29.99,high,low,4,name.com,,,11/08/2026 01:03
+46a18961-603c-471a-be2b-71f0af81fa1c,parkinson.rip,available,24.98,32.98,medium,low,9,namecheap,,,02/10/2026 04:12
 93dcd170-7e87-48f8-827a-f29ec2cf19a2,healthful.rip,available,7.99,29.99,high,low,9,name.com,,,21/08/2026 02:02
 a507d69f-5e65-4cbf-b107-b2df68315702,compromise.rip,available,23.49,23.49,high,low,10,namesilo,,,24/09/2026 16:54
 8c960504-1d2f-4aa4-a3a2-46534a70f329,irani.rip,available,7.99,29.99,high,low,5,name.com,,,22/08/2026 09:42
 eb5f75e0-0f02-4f81-9927-1bcd652259b6,fashioned.rip,available,7.99,29.99,high,low,9,name.com,,,17/08/2026 23:02
 d3b46a15-b43c-43cd-9fe9-2900f79037ea,frisky.rip,available,7.99,29.99,high,low,6,name.com,,,18/08/2026 16:02
+e71d488a-5cd8-42b9-ba96-7f2da210b832,deposed.rip,available,23.49,23.49,low,low,7,namesilo,,,02/10/2026 03:36
 47488a9e-c895-4739-adc1-024882abee7f,pva.rip,available,4.63,19.05,medium,low,3,porkbun,,,30/09/2026 18:22
 47dbbeb8-9897-4ace-9fa8-cb591181ba54,consequent.rip,available,7.99,29.99,high,low,10,name.com,,,
 ff28f8c6-812a-405b-ac13-dbc33f35d3cc,webber.rip,available,4.5,19.48,medium,low,6,dynadot,,,29/09/2026 15:02
@@ -30,6 +33,7 @@ f60deb62-45f6-4d7c-8b89-7492a590878a,felicitous.rip,available,7.99,29.99,medium,
 4f7934da-400a-4bd4-8ea7-6d6a723cecad,geometry.rip,available,18.83,18.83,high,low,8,spaceship,,,29/09/2026 20:49
 07b63e95-c509-41f7-ada8-d2c47aa32305,noor.rip,available,18.83,18.83,high,low,4,spaceship,,,30/09/2026 13:36
 179dc803-3ecc-47e4-88c7-570aa431f5e4,frederick.rip,available,39.99,39.99,high,low,9,godaddy,,,28/09/2026 01:56
+991e59f4-e170-414a-ad0d-6f1ec4233b63,multiplexing.rip,available,24.98,32.98,medium,low,12,namecheap,,,01/10/2026 23:04
 030be421-7e2d-4083-85c9-5821154a1f0c,actinium.rip,available,24.98,32.98,medium,low,8,namecheap,,,16/09/2026 19:56
 3aa6d0a7-5b57-490c-91ae-826f73e82199,bedford.rip,available,24.98,32.98,high,low,7,namecheap,,,25/09/2026 14:52
 ba9e1c63-1614-4778-92b2-6b74255eeec6,jun.rip,available,23.49,23.49,high,low,3,namesilo,,,29/09/2026 15:18
@@ -73,6 +77,7 @@ ada1b140-32a0-47ad-9b23-957b09aa380b,cheyenne.rip,available,23.49,23.49,high,low
 5aedaa5f-cfa1-4a1e-a05a-d49f1ae1c345,uup.rip,available,23.49,23.49,medium,low,3,namesilo,,,20/09/2026 22:18
 5dc62d90-1367-4da7-9100-392dfb50a3bf,ponderous.rip,available,7.99,29.99,medium,low,9,name.com,,,24/08/2026 11:10
 68625f1e-c09b-44c1-96c5-fe2c65e755cc,anna.rip,available,23.49,23.49,high,medium,4,namesilo,,,19/09/2026 09:54
+4f6e18d5-cad4-4245-a69e-b2432b59086f,cassell.rip,available,23.49,23.49,high,low,7,namesilo,,,02/10/2026 00:55
 53e6efaa-427a-4798-a2b2-6b8192d4feed,corporations.rip,available,18.2,18.2,medium,low,12,cloudflare,,,29/09/2026 11:23
 723c06f2-739c-41bf-847d-49307f7a04f7,lobby.rip,available,18.2,18.2,high,low,5,cloudflare,,,28/09/2026 21:38
 97f16158-e3e8-427a-be74-c566f7424073,overture.rip,available,4.5,19.48,high,low,8,dynadot,,,30/09/2026 18:16
@@ -127,6 +132,7 @@ edfaa636-c380-4f2b-b33d-38c3b745b382,censure.rip,available,23.49,23.49,medium,lo
 6ca8d033-564b-40ee-be51-47044ad44727,millions.rip,available,24.98,32.98,medium,low,8,namecheap,,,25/09/2026 20:31
 95d5e02e-2f5c-4a72-ae73-b66da47d949d,boulder.rip,available,23.49,23.49,medium,low,7,namesilo,,,28/09/2026 13:35
 d9cb590a-f5b9-40d9-be80-9aa9b337ac43,moderato.rip,available,7.99,29.99,medium,low,8,name.com,,,25/08/2026 02:58
+b88b5d26-533d-4413-bac6-144ff4d75edf,pleases.rip,available,18.83,18.83,medium,low,7,spaceship,,,02/10/2026 02:57
 a1b1760f-7fb3-4abc-a68f-890c60b1f497,carousing.rip,available,7.99,29.99,medium,low,9,name.com,,,08/08/2026 04:24
 3b670ea5-42dc-4ba6-964a-caf3917792e4,claremont.rip,available,23.49,23.49,high,low,9,namesilo,,,27/09/2026 08:22
 f9571c88-b362-4f80-a885-3cb77e068688,judgments.rip,available,23.49,23.49,medium,low,9,namesilo,,,30/09/2026 15:26
@@ -135,6 +141,7 @@ a4a87172-c3d3-4c4b-b59f-944a4fa431a9,nominated.rip,available,24.98,32.98,high,lo
 f3ee3604-d616-49ae-af62-a0f9f7d2c686,revolved.rip,available,18.83,18.83,medium,low,8,spaceship,,,27/09/2026 14:41
 d0126aec-9447-45fe-819f-fb28dc642f72,probiotic.rip,available,24.5,,high,low,9,unstoppable,,,28/09/2026 02:50
 b83faf5a-c8f7-43fc-8b2c-f45c8636a2cd,hezbollah.rip,available,23.49,23.49,medium,low,9,namesilo,,,29/09/2026 07:16
+0910a83e-d7a8-4934-acce-6b86824828e3,tavistock.rip,available,4.63,19.05,medium,low,9,porkbun,,,02/10/2026 00:47
 de52bfa1-424f-4ae1-9f4d-13f8f9a810d2,trustful.rip,available,24.98,32.98,high,low,8,namecheap,,,11/09/2026 20:45
 2fdd1609-d18b-4859-b6ff-552d04248a58,toured.rip,available,24.98,32.98,medium,low,6,namecheap,,,20/09/2026 05:39
 108f159e-391e-4ae0-822c-03a702fc2b73,turkish.rip,available,7.99,29.99,medium,low,7,name.com,,,11/09/2026 21:18
@@ -200,6 +207,7 @@ ed9d43df-d9ed-4cd0-a591-1cfbbc7c7901,salvation.rip,available,18.83,18.83,high,lo
 61b66f90-6fac-42b1-9354-5549bb90e638,anciently.rip,available,23.49,23.49,medium,low,9,namesilo,,,13/09/2026 19:42
 d2cae978-e1f8-4d74-8384-372b3a3d6132,armillaria.rip,available,23.49,23.49,medium,low,10,namesilo,,,20/09/2026 07:07
 864f6455-65eb-4127-a142-9ead685c23b3,leukaemia.rip,premium,78.54,78.54,medium,low,9,namesilo,,,24/09/2026 11:59
+d76370fa-39f6-4b0c-9938-b61218d8cff1,gratification.rip,available,23.49,23.49,medium,low,13,namesilo,,,02/10/2026 01:26
 663cb51d-8328-4959-aeb1-b69f2660d27c,retrograde.rip,available,23.49,23.49,high,low,10,namesilo,,,09/09/2026 15:46
 1deb1dc2-cde0-4256-a628-dd9e8a7a134a,atar.rip,available,24.98,32.98,medium,low,4,namecheap,,,20/09/2026 19:24
 e35470a3-4ae7-4b21-a8d4-a07b0e8bfe38,hospitable.rip,available,7.99,29.99,high,low,10,name.com,,,21/08/2026 14:16
@@ -215,7 +223,7 @@ fc3d032b-7392-4d04-9c31-da4407e3ef58,scenario.rip,available,18.83,18.83,high,low
 af86fe7a-3204-439d-8dd7-edee953ea716,islington.rip,available,18.83,18.83,medium,low,9,spaceship,,,30/09/2026 04:50
 1b2b112c-b11d-43ca-a31c-7944fb262952,chilean.rip,available,7.99,29.99,high,low,7,name.com,,,12/08/2026 05:15
 1e87afce-a09d-47a1-af7a-9dca1adcc99b,astonishing.rip,available,18.2,18.2,high,low,11,cloudflare,,,29/09/2026 21:10
-0fbc9939-0648-4753-97d4-9759210a7346,leisure.rip,available,24.98,32.98,high,low,7,namecheap,,,28/09/2026 12:28
+0fbc9939-0648-4753-97d4-9759210a7346,leisure.rip,available,18.83,18.83,high,low,7,spaceship,,,01/10/2026 20:30
 94e33368-cdab-4484-b866-f317a7d0dd3d,lordly.rip,available,7.99,29.99,high,low,6,name.com,,,07/08/2026 17:05
 364597dc-09e8-4df8-afcf-92569a1fab8a,russet.rip,available,24.98,32.98,high,low,6,namecheap,,,09/09/2026 20:06
 a020e2cb-f738-452e-9e64-67c0ffad3e5e,frustrating.rip,available,18.83,18.83,medium,low,11,spaceship,,,29/09/2026 14:46
@@ -254,6 +262,7 @@ e73a01c2-de37-48fe-b4ca-07983f041ed5,biltong.rip,available,23.49,23.49,medium,lo
 cb33daf9-c9a1-4e15-b0cd-90d3b796e6ac,endless.rip,available,7.99,29.99,high,low,7,name.com,,,13/08/2026 18:44
 003f560d-4ae1-4f95-be6a-7c4342a58003,centenary.rip,available,7.99,29.99,high,low,9,name.com,,,11/08/2026 23:54
 3b296e06-f1bf-4600-aedc-fe28eefe4391,marry.rip,available,23.49,23.49,high,low,5,namesilo,,,13/09/2026 09:36
+2850d859-3eda-46c7-a974-ec6d27f5c829,flanks.rip,available,24.5,,low,low,6,unstoppable,,,01/10/2026 15:30
 9153acb9-3af7-4aca-86e7-fe5f8c6516d2,necks.rip,available,23.49,23.49,medium,low,5,namesilo,,,19/09/2026 20:42
 c8b0954a-95fc-414c-81cd-31679b16ca27,aligned.rip,available,7.99,29.99,high,low,7,name.com,,,
 b10997ae-d229-45e0-8882-82abd23341c3,jacobi.rip,available,23.49,23.49,high,low,6,namesilo,,,29/09/2026 07:21
@@ -268,10 +277,13 @@ f37986e4-8a29-47ce-a225-75df5c6da336,autostrada.rip,available,24.98,32.98,medium
 ed59d09d-763f-4c43-b6aa-c3a7a2122350,nes.rip,available,23.49,23.49,high,low,3,namesilo,,,28/09/2026 03:45
 45a789de-3155-4b12-b5ec-9f3e63b8d93b,peddling.rip,available,23.49,23.49,medium,low,8,namesilo,,,30/09/2026 02:33
 05d387f1-2573-490f-9376-fa4f16b40483,drippage.rip,available,23.49,23.49,medium,low,8,namesilo,,,14/09/2026 14:34
+d7910afe-4843-4aae-93bf-d7575ee92de5,rehearsing.rip,available,23.49,23.49,high,low,10,namesilo,,,01/10/2026 06:10
+4fc0f534-8cf4-46fe-9fba-439e108c422f,maud.rip,available,18.83,18.83,medium,low,4,spaceship,,,01/10/2026 07:00
 f67e18d3-a9a2-4202-89cb-f51513ad457c,enabled.rip,available,24.5,,high,low,7,unstoppable,,,30/09/2026 19:35
 a5832c65-3baa-427e-83d3-54b390510910,turbulence.rip,available,18.83,18.83,high,low,10,spaceship,,,29/09/2026 08:09
 367909cf-6480-49a3-b2bb-76d51742c867,hla.rip,available,24.5,,high,low,3,unstoppable,,,29/09/2026 09:14
 23091c9a-d938-4628-8221-d1d89d52aa6a,angara.rip,available,23.49,23.49,medium,low,6,namesilo,,,19/09/2026 05:44
+90121027-950b-40b9-b470-ce818cd54887,swallowing.rip,available,18.2,18.2,high,low,10,cloudflare,,,01/10/2026 23:01
 b3330b63-afa9-4abd-abbb-a23945e28d74,baseless.rip,available,7.99,29.99,medium,low,8,name.com,,,08/08/2026 21:44
 665e0533-27f0-4450-9ea4-0c0e56c79ce8,wheeler.rip,available,23.49,23.49,high,low,7,namesilo,,,23/09/2026 13:27
 78119fac-93ab-45c0-a9df-785a4aacb24a,tenured.rip,available,23.49,23.49,medium,low,7,namesilo,,,11/09/2026 11:43
@@ -293,6 +305,7 @@ c84254a6-fa1a-4bc6-9844-753405fbff70,francs.rip,available,4.5,19.48,low,low,6,dy
 dba575e3-d5a0-488e-9a75-f1fefd852c48,substrates.rip,available,23.49,23.49,medium,low,10,namesilo,,,25/09/2026 21:45
 d056f92b-4673-4435-8a0e-60d4bb0bf2cd,glorious.rip,available,7.99,29.99,high,low,8,name.com,,,20/08/2026 14:48
 a3622824-aa0a-44dc-9c44-e6b8aaed3cb4,fountain.rip,available,18.83,18.83,high,low,8,spaceship,,,27/09/2026 13:35
+e4cc3efe-bdcc-426f-99d8-4dc8f6f3fe29,dall.rip,available,18.2,18.2,medium,low,4,cloudflare,,,01/10/2026 05:50
 56b91a96-ee9b-47ff-aeaa-fdc66975d021,dietetic.rip,available,7.99,29.99,medium,low,8,name.com,,,14/08/2026 06:56
 78903efb-29f4-4710-9967-45f2d41b345e,chilly.rip,available,7.99,29.99,high,low,6,name.com,,,12/08/2026 05:30
 498757a7-158d-4a3e-b54c-544fe58f371a,kurrat.rip,available,23.49,23.49,medium,low,6,namesilo,,,18/09/2026 11:14
@@ -342,13 +355,14 @@ e40717bf-cae1-465c-8daa-0874f7439b82,ipsus.rip,available,23.49,23.49,medium,low,
 13642cb8-6ca6-4b68-a778-590af8d6f8f0,murderers.rip,available,23.49,23.49,low,low,9,namesilo,,,28/09/2026 23:41
 0db96235-06c1-4ee9-984d-bf4bfa489fc0,metrical.rip,available,7.99,29.99,medium,low,8,name.com,,,24/08/2026 22:08
 057c3e45-49ff-4341-b101-64ff752b69b3,clemson.rip,available,24.98,32.98,high,low,7,namecheap,,,27/09/2026 07:07
-efc9af73-b9f8-47da-b2a8-d0e2c484eaed,uncomfortably.rip,available,7.99,,medium,low,13,name.com,,,
+efc9af73-b9f8-47da-b2a8-d0e2c484eaed,uncomfortably.rip,available,23.49,23.49,medium,low,13,namesilo,,,01/10/2026 19:39
 b549b2d7-cb1d-4992-8f47-ac9c4ba3f6d7,numinous.rip,available,23.49,23.49,medium,low,8,namesilo,,,03/09/2026 23:01
 7dd3cb32-3695-4715-83fc-7155fff5ba0a,makeshift.rip,available,7.99,29.99,high,low,9,name.com,,,21/08/2026 23:21
 1b92c757-6700-48aa-a1ac-39f502455800,anaerobe.rip,available,23.49,23.49,medium,low,8,namesilo,,,19/09/2026 01:18
 f0be2de0-6fb7-4352-b9c9-61e67270d30d,hhs.rip,available,23.49,23.49,high,low,3,namesilo,,,29/09/2026 12:02
 3420e3c7-b23f-4c12-8a10-915a600c78de,speer.rip,available,24.98,32.98,high,low,5,namecheap,,,18/09/2026 02:44
 1d766cf3-806b-4303-bab6-8028b3bb40fe,braddock.rip,available,18.83,18.83,medium,low,8,spaceship,,,29/09/2026 15:49
+ee24844a-7053-4779-91f0-9b9b476bd179,lombard.rip,available,23.49,23.49,high,low,7,namesilo,,,02/10/2026 05:34
 baf9355b-6730-4f61-a420-b269da8fbeac,ravenous.rip,available,7.99,29.99,medium,low,8,name.com,,,15/08/2026 06:13
 8881f2f6-c262-40d7-a113-de445a3f5c04,accelerate.rip,available,24.98,32.98,high,low,10,namecheap,,,29/09/2026 02:40
 263d9db8-15ad-4e5e-b631-95f0a412ce82,bhakti.rip,available,23.49,23.49,high,low,6,namesilo,,,23/09/2026 12:33
@@ -361,19 +375,21 @@ d70fbcf4-70f9-46fc-bc81-e0709f301461,enlighten.rip,available,18.83,18.83,high,lo
 910a6331-44d5-4c63-a153-dee47970095e,checkers.rip,available,23.49,23.49,high,low,8,namesilo,,,24/09/2026 13:59
 bf765a0a-de13-4e21-ba39-eb3e8005010a,unshaken.rip,available,23.49,23.49,high,low,8,namesilo,,,12/09/2026 07:04
 3c979783-1c57-4d2c-869e-40f5e7f6542e,glassless.rip,available,7.99,29.99,medium,low,9,name.com,,,20/08/2026 14:11
+d3a5c9d5-96dd-4932-a433-5905e339752a,wicklow.rip,available,18.83,18.83,medium,low,7,spaceship,,,01/10/2026 23:14
 157f4aea-4d48-42e1-b340-202f60f29e4b,leading.rip,available,23.49,23.49,high,low,7,namesilo,,,28/09/2026 23:25
 df91e8a3-ec7c-4a16-ae8f-2f5667d44278,testily.rip,available,23.49,23.49,low,low,7,namesilo,,,15/09/2026 09:30
 20841149-5b20-428d-bf80-c27498d3b6d0,whoever.rip,available,7.99,,medium,low,7,name.com,,,
 735657e9-3168-417e-b724-f46cf64b5daf,henri.rip,available,23.49,23.49,high,low,5,namesilo,,,18/09/2026 10:47
 58e1b517-d65f-4321-9986-9f5fb0ef3572,grandma.rip,resell,,,high,low,7,united-domains GmbH,28/08/2016 15:30,28/08/2027 15:30,29/09/2026 21:15
 b40d90da-3df8-418a-88ef-8fb70ea9546d,utopian.rip,available,23.49,23.49,high,low,7,namesilo,,,13/09/2026 00:12
+68566a44-94e3-4749-bf47-952067b4ea1d,ritter.rip,available,18.83,18.83,high,low,6,spaceship,,,01/10/2026 22:24
 3f4030b4-a626-4132-a51a-4563e00e32d3,deerfield.rip,available,24.98,32.98,high,low,9,namecheap,,,29/09/2026 10:06
 b2fa9993-6fe1-441d-bf49-1cce6cf8e9be,nkvd.rip,available,4.5,19.48,medium,low,4,dynadot,,,30/09/2026 04:47
 9271b585-9089-4294-b91e-4d61d0dc6963,pdc.rip,available,24.5,,high,low,3,unstoppable,,,29/09/2026 09:09
 ae3cdeec-eb64-4c21-b19d-3ae903fbef98,cemetery.rip,resell,,,high,low,8,,,,27/09/2026 12:06
 04c7444c-052f-4497-8f90-ae40303a274b,compel.rip,available,23.49,23.49,medium,low,6,namesilo,,,03/09/2026 23:39
 b2116411-5b37-4f49-a6b8-85fae7a42471,cyclic.rip,available,7.99,29.99,high,low,6,name.com,,,13/08/2026 13:31
-8c271794-4606-4183-b3d6-03ba9c9d4299,granting.rip,available,7.99,,high,low,8,name.com,,,
+8c271794-4606-4183-b3d6-03ba9c9d4299,granting.rip,available,18.2,18.2,high,low,8,cloudflare,,,01/10/2026 22:30
 f0be0415-75cb-44c3-aab8-333961746d1c,shops.rip,available,23.49,23.49,high,low,5,namesilo,,,18/09/2026 06:22
 26aac13b-b681-44bd-a1cb-a4ff83d297ed,rises.rip,available,23.49,23.49,low,low,5,namesilo,,,28/09/2026 13:01
 5efb32f4-bcfd-4b40-8250-a25003230613,baton.rip,available,23.49,23.49,high,low,5,namesilo,,,22/09/2026 14:13
@@ -383,6 +399,7 @@ f0be0415-75cb-44c3-aab8-333961746d1c,shops.rip,available,23.49,23.49,high,low,5,
 b8ce2c73-da0c-46bb-bb34-ecd9e03da2c8,lafayette.rip,available,24.98,32.98,high,low,9,namecheap,,,30/09/2026 01:47
 950f915c-2515-4130-9517-c06a7ca82fc1,activation.rip,available,7.99,29.99,high,low,10,name.com,,,
 e819fb3c-e6e8-4888-aea4-aca3ec17d1ac,ils.rip,available,23.49,23.49,medium,low,3,namesilo,,,30/09/2026 00:10
+63672277-a9df-487c-ac9d-914724b8aeab,tamworth.rip,available,23.49,23.49,high,low,8,namesilo,,,01/10/2026 23:32
 4d517c2c-69ee-4f39-8e0b-e7c5535ee133,enured.rip,available,7.99,29.99,low,low,6,name.com,,,17/08/2026 09:59
 e71f42d0-5f70-41a0-816a-7fbcdef10e3e,permit.rip,available,23.49,23.49,high,low,6,namesilo,,,24/09/2026 18:39
 cef62f77-5f77-4017-baca-76190f40ea19,pernicious.rip,available,7.99,29.99,medium,low,10,name.com,,,08/08/2026 12:01
@@ -391,6 +408,7 @@ cef62f77-5f77-4017-baca-76190f40ea19,pernicious.rip,available,7.99,29.99,medium,
 8d04a54f-4f9a-472c-aac6-0b5fe172b38d,pane.rip,available,23.49,23.49,high,low,4,namesilo,,,21/09/2026 14:30
 c34477e9-7dc6-4b3f-9e84-4008ac52abea,wyoming.rip,premium,68.51,68.51,high,low,7,spaceship,,,29/09/2026 06:48
 d1692bd0-b8b5-40d2-af58-a264d9b6f9bd,tunes.rip,available,24.5,,medium,low,5,unstoppable,,,28/09/2026 18:03
+5a78c870-4b6a-4710-b37c-b2972c953c90,leggett.rip,available,24.5,,high,low,7,unstoppable,,,01/10/2026 23:34
 fc1f3205-abd4-43ad-b773-be1d408b2aa7,alcahest.rip,available,23.49,23.49,medium,low,8,namesilo,,,18/09/2026 03:43
 a02c57a3-08d1-44cb-80c2-34cfc42c4312,lebanese.rip,available,7.99,29.99,high,low,8,name.com,,,22/08/2026 22:15
 ecea027c-1e55-44b3-9801-7d3b8d9a315f,every.rip,available,23.49,23.49,high,medium,5,namesilo,,,01/10/2026 00:41
@@ -439,12 +457,13 @@ cfcdd21c-8f08-4d59-a05d-cd9864205dea,resort.rip,available,4.63,19.05,high,low,6,
 f73579b8-9230-43ee-abc7-9e8ad7b7062f,manila.rip,available,24.5,,high,low,6,unstoppable,,,29/09/2026 07:06
 357e5072-6a9e-4b81-876e-ab481256a461,judaic.rip,available,7.99,29.99,medium,low,6,name.com,,,22/08/2026 13:17
 4898b672-0879-4122-a944-db255d12a9aa,curt.rip,available,7.99,29.99,medium,low,4,name.com,,,11/08/2026 07:05
-38d94617-0153-4e22-80d1-4b4d346116b5,coaching.rip,available,24.98,32.98,high,low,8,namecheap,,,28/09/2026 10:49
+38d94617-0153-4e22-80d1-4b4d346116b5,coaching.rip,available,24.5,32.98,high,low,8,unstoppable,,,01/10/2026 18:50
 46f0890b-d5fa-4c52-95a6-352e730bcce6,critter.rip,available,24.98,32.98,high,low,7,namecheap,,,24/09/2026 19:33
 c99c82c6-bc97-48d6-b987-9abbf1f77d47,demonstration.rip,available,7.99,,high,low,13,name.com,,,
 7eec3f86-8fef-4685-b308-d35a329fea30,ailurus.rip,available,24.98,32.98,medium,low,7,namecheap,,,17/09/2026 21:19
 10c9532a-6d25-45f7-a628-72c1dc99d07c,yell.rip,available,4.63,19.05,medium,low,4,porkbun,,,29/09/2026 12:21
 157437d8-676e-4633-a72b-158c5a3df379,aotus.rip,available,7.99,29.99,medium,low,5,name.com,,,19/09/2026 16:05
+211d2c19-6592-4926-8c58-e415cf18377f,colonization.rip,available,24.5,,medium,low,12,unstoppable,,,02/10/2026 01:18
 9b6103b5-8c42-459b-a262-ca2ee6b90c5b,investigate.rip,available,23.49,23.49,high,low,11,namesilo,,,26/09/2026 00:41
 df11e44d-0b7e-4097-bf62-386e67018745,alkaline.rip,available,23.49,23.49,high,low,8,namesilo,,,22/09/2026 00:14
 ca532ee9-b383-44b1-adcc-08330b7c3422,rent.rip,available,24.98,32.98,high,low,4,namecheap,,,24/09/2026 13:47
@@ -475,6 +494,7 @@ cca74c83-ea34-4246-9cb9-bad3c6ae07c9,kun.rip,available,24.5,,high,low,3,unstoppa
 a1eaf9c5-2631-47e1-9684-5418d6c037aa,andover.rip,available,23.49,23.49,medium,low,7,namesilo,,,27/09/2026 18:38
 9a0811e4-2047-477a-a464-5943a3547214,quadruped.rip,available,7.99,29.99,medium,low,9,name.com,,,18/08/2026 13:30
 23c0bfc6-05e2-4c17-8e01-6e1e1564af2a,troika.rip,available,7.99,29.99,high,low,6,name.com,,,
+a3dbc81d-2948-49d7-af2b-664e4f2b20b3,marat.rip,available,23.49,23.49,high,low,5,namesilo,,,02/10/2026 05:28
 77abcad8-32f4-406b-a630-f2d287564a8d,manifested.rip,available,23.49,23.49,medium,low,10,namesilo,,,30/09/2026 06:51
 af991291-fea8-4de1-b8f1-aaf3fec5b1a1,totality.rip,available,7.99,29.99,high,low,8,name.com,,,
 2bf4e383-c6c5-4776-8009-e7dff041ed82,enid.rip,available,18.2,18.2,medium,low,4,cloudflare,,,28/09/2026 19:04
@@ -500,6 +520,7 @@ f55c3780-4cc8-4805-b082-cab71e441c03,tully.rip,available,24.98,32.98,medium,low,
 582a196f-c801-49a6-b4bf-ec93e478b8fa,isaacs.rip,available,24.5,,high,low,6,unstoppable,,,29/09/2026 10:02
 933330e7-d527-4a7f-aff9-ad9a350a0707,earthquake.rip,available,23.49,23.49,high,low,10,namesilo,,,27/09/2026 13:14
 61bbd34e-d242-4705-be4b-1f37c5753e79,amenity.rip,available,24.98,32.98,high,low,7,namecheap,,,17/09/2026 19:17
+2b1d6cd6-d528-43e6-a416-8876afce37aa,boasting.rip,available,23.49,23.49,medium,low,8,namesilo,,,02/10/2026 04:07
 6ee870c0-ffb7-4ced-b280-7395fd7931a8,asking.rip,available,24.5,,high,low,6,unstoppable,,,28/09/2026 22:40
 4c5f8931-fef6-4dd8-86f3-63d2cc7a3c17,ordnance.rip,available,23.49,23.49,high,low,8,namesilo,,,20/09/2026 11:44
 0fc8b697-d72e-406d-93ca-e99ab6254480,nihon.rip,available,18.83,18.83,high,low,5,spaceship,,,29/09/2026 13:34
@@ -509,8 +530,10 @@ e9d05412-b42a-4d5b-8b98-734366ed7bd5,bey.rip,available,24.98,32.98,medium,low,3,
 6892d46d-9f12-4d3b-86c9-e9e035f53a6b,cabinets.rip,available,24.5,,medium,low,8,unstoppable,,,30/09/2026 15:51
 1a73f015-f7bd-4ae0-a0c4-5df31fbf634c,viciously.rip,available,7.99,29.99,medium,low,9,name.com,,,14/09/2026 01:35
 f439ec64-e97e-49c0-b9c7-be79cbb51501,loopy.rip,available,7.99,29.99,medium,low,5,name.com,,,06/08/2026 21:22
+9ceeba4e-f2d4-4045-8538-3e64832db6ef,martine.rip,available,4.5,19.48,high,low,7,dynadot,,,02/10/2026 00:09
 d2249bfb-7d8f-46ec-9862-20a61c2fd7ed,tidy.rip,available,7.99,29.99,high,low,4,name.com,,,20/08/2026 16:42
 ddc0a0c9-b9e9-4ade-9d1c-5f093478d16a,chorale.rip,available,7.99,29.99,high,low,7,name.com,,,12/08/2026 07:04
+85213209-cd19-4d99-a084-934cff2c198e,parkersburg.rip,available,24.5,,medium,low,11,unstoppable,,,02/10/2026 00:08
 93aad265-3501-4913-a444-e2aa2ff3d9dc,restart.rip,available,18.83,18.83,high,low,7,spaceship,,,30/09/2026 02:42
 1bdf37a8-0798-4d6f-946a-f11849497a8a,injurious.rip,available,7.99,29.99,medium,low,9,name.com,,,14/08/2026 00:30
 f674d02c-b0ee-4ef0-801a-4487041fc064,groupe.rip,available,18.83,18.83,high,low,6,spaceship,,,30/09/2026 12:13
@@ -538,7 +561,7 @@ b62c8fb8-8af5-4deb-9a8e-840d9b18fa5a,volcanic.rip,available,23.49,23.49,high,low
 a5d06410-6b7e-4bcf-8171-38de0067bdc2,roughly.rip,available,24.98,32.98,high,low,7,namecheap,,,21/09/2026 14:14
 c062503a-c61d-4f5d-a664-23de25f34c4f,distressed.rip,available,7.99,29.99,medium,low,10,name.com,,,14/08/2026 12:16
 59acc7fe-ff50-495c-a2c6-e28ae4de616d,inch.rip,available,24.98,32.98,high,low,4,namecheap,,,25/09/2026 08:00
-8febf284-954a-4bab-b4f4-bcaee3b1d94f,his.rip,available,7.99,,high,low,3,name.com,,,
+8febf284-954a-4bab-b4f4-bcaee3b1d94f,his.rip,available,18.83,18.83,high,low,3,spaceship,,,01/10/2026 11:33
 c420609b-ba04-463a-858d-6ca013da585d,holland.rip,available,23.49,23.49,high,low,7,namesilo,,,28/09/2026 02:07
 4a505dc8-9105-42a6-946a-7c67ab1a266b,yob.rip,available,7.99,29.99,medium,low,3,name.com,,,11/08/2026 08:46
 4d2c80a8-9939-4881-a84a-c3e91ee78666,ananas.rip,available,23.49,23.49,high,low,6,namesilo,,,19/09/2026 02:03
@@ -549,6 +572,7 @@ e508817f-c938-4f92-a2a8-72190e942a83,nugatory.rip,available,23.49,23.49,low,low,
 5da01312-77c1-4f4e-9785-ee6f93a42f5f,weirdness.rip,available,24.98,32.98,medium,low,9,namecheap,,,23/09/2026 23:18
 4b82ace3-527c-4e43-8912-c1e8141c59be,soursop.rip,available,24.98,32.98,high,low,7,namecheap,,,19/09/2026 10:36
 430a0518-2c73-4177-bc03-4d71c499f922,bled.rip,available,18.83,18.83,high,low,4,spaceship,,,30/09/2026 03:16
+36c86965-d823-4efa-8f2f-67b9b748ee73,hairdresser.rip,available,23.49,23.49,high,low,11,namesilo,,,01/10/2026 22:32
 83700782-c982-4653-a862-9cb03ac2e446,racehorse.rip,available,23.49,23.49,high,low,9,namesilo,,,22/09/2026 01:58
 3105c160-c525-46ac-abbe-1c87fcab1d2c,strict.rip,available,7.99,29.99,medium,low,6,name.com,,,21/08/2026 00:17
 11e0e96b-e0e0-41a3-b1d5-dff9fe8d31fa,anticipated.rip,available,7.99,29.99,high,low,11,name.com,,,08/09/2026 14:34
@@ -646,7 +670,7 @@ d01b280f-bef4-47ec-ae93-de56c9306cd6,chechnya.rip,available,4.63,19.05,medium,lo
 a2476226-bbc2-481e-9d10-12dafde5b2bb,consuming.rip,available,24.98,32.98,high,low,9,namecheap,,,23/09/2026 21:22
 b4a0c1d3-0aa3-45ae-bc9b-a36ad1cbb9bd,windswept.rip,available,23.49,23.49,medium,low,9,namesilo,,,13/09/2026 12:16
 d8f973cc-8ba6-470a-979b-2a345cfc9906,jaw.rip,available,24.98,32.98,high,low,3,namecheap,,,27/09/2026 03:31
-20f7900c-4a07-4a14-83d8-4badc54df455,wasnt.rip,available,7.99,,low,low,5,name.com,,,
+20f7900c-4a07-4a14-83d8-4badc54df455,wasnt.rip,available,24.5,,medium,low,5,unstoppable,,,02/10/2026 04:19
 eb38ea50-c870-481b-a8fd-152795e71730,manslaughter.rip,available,23.49,23.49,medium,low,12,namesilo,,,28/09/2026 22:46
 241a1e1a-0a45-48b1-9442-148881260855,coupled.rip,available,7.99,29.99,high,low,7,name.com,,,12/08/2026 22:15
 1981811b-f09c-47fc-a269-aa687f65efe3,potassium.rip,available,23.49,23.49,high,low,9,namesilo,,,20/09/2026 22:30
@@ -655,6 +679,7 @@ eb38ea50-c870-481b-a8fd-152795e71730,manslaughter.rip,available,23.49,23.49,medi
 758dd7fa-ce03-4770-a9f1-ffb0df603fe0,breakers.rip,available,18.83,18.83,medium,low,8,spaceship,,,30/09/2026 00:52
 efeef740-ffc4-4f2c-afe2-edc89485e360,cruel.rip,available,23.49,23.49,high,low,5,namesilo,,,22/09/2026 17:21
 ac0fd1a6-0e73-4a66-9ede-a5eedb75c6aa,illusional.rip,available,7.99,29.99,medium,low,10,name.com,,,21/08/2026 20:11
+022c74e6-a24a-491c-8f5d-a1840b83ce3f,ctv.rip,available,18.83,18.83,high,low,3,spaceship,,,01/10/2026 22:19
 730198af-3757-4bac-901f-8932cc9adde7,easygoing.rip,available,7.99,29.99,high,low,9,name.com,,,13/08/2026 12:00
 0d1d463c-2d94-40f5-952b-0a43728c84bc,hobart.rip,available,23.49,23.49,high,low,6,namesilo,,,25/09/2026 07:24
 63e2fbbf-e523-46aa-a5ab-f39cdb79fea1,uncool.rip,available,23.49,23.49,medium,low,6,namesilo,,,12/09/2026 06:11
@@ -667,6 +692,7 @@ ac13af83-1f7b-469e-b23f-bdcf1d038e65,shutting.rip,available,7.99,29.99,medium,lo
 9b4d6fda-bc50-4fd0-afc4-94f3d89b9b5c,platt.rip,available,23.49,23.49,medium,low,5,namesilo,,,27/09/2026 06:33
 a3bb0164-8ce4-43f8-88b9-c14177093e99,therapeutic.rip,available,4.5,19.48,high,low,11,dynadot,,,29/09/2026 14:26
 b60bbe65-5fd5-4d4b-acad-49b695d0e3d6,flags.rip,available,7.99,,high,low,5,name.com,,,
+928b801f-c579-42f5-a906-29462d261a42,mesoamerica.rip,available,18.2,18.2,medium,low,11,cloudflare,,,01/10/2026 08:35
 cf41cde6-e5ca-45a7-92c7-27fd58fc6179,published.rip,available,23.49,23.49,high,low,9,namesilo,,,27/09/2026 07:35
 a883347d-ac11-4b3b-84ad-fabf7c4b7419,brinjal.rip,available,7.99,29.99,high,low,7,name.com,,,21/09/2026 02:34
 4bf1e1a7-84b1-4a8b-8b52-e4f0e158c8e1,screwdrivers.rip,available,23.49,23.49,medium,low,12,namesilo,,,20/09/2026 04:52
@@ -691,7 +717,7 @@ b6ecc4f7-95b5-41dd-bce5-dcc52e2924b3,brighten.rip,available,4.5,19.48,high,low,8
 1db9f5be-bc53-4e0b-a480-964cf73d78e9,pager.rip,available,23.49,23.49,high,low,5,namesilo,,,23/09/2026 01:32
 05837659-86f3-46df-946d-f1f9c842275d,long.rip,available,24.98,32.98,high,low,4,namecheap,,,24/09/2026 21:14
 d7745fef-c5bd-4dba-bd8d-f5b7bbc2dee7,courtship.rip,available,4.5,19.48,high,low,9,dynadot,,,29/09/2026 18:31
-4fe7f9ed-97dc-4668-98ad-c86202bec653,freaking.rip,available,7.99,,medium,low,8,name.com,,,
+4fe7f9ed-97dc-4668-98ad-c86202bec653,freaking.rip,available,18.83,18.83,medium,low,8,spaceship,,,01/10/2026 05:49
 9a7ef0d7-0848-4033-8ca8-daa504b9abfa,basin.rip,available,24.98,32.98,high,low,5,namecheap,,,22/09/2026 10:56
 483f39be-b12d-4fc6-8753-fa8826d1ec27,modal.rip,available,24.98,32.98,high,low,5,namecheap,,,25/09/2026 21:10
 7c394c19-c99c-4b9c-9cc2-9636e28c5a6c,edgeless.rip,available,7.99,29.99,medium,low,8,name.com,,,15/08/2026 08:37
@@ -739,6 +765,7 @@ b6db6234-f434-40c5-bf60-c10b0aab58fc,squander.rip,available,23.49,23.49,medium,l
 729c72ef-2ebe-4225-8ad5-f3bf6833d1dc,ophthalmic.rip,available,7.99,29.99,medium,low,10,name.com,,,04/09/2026 16:33
 ce3dcabd-c31a-4b7c-8f09-bb64a4302073,taint.rip,available,24.98,32.98,medium,low,5,namecheap,,,24/09/2026 17:39
 10f8c6dc-2837-4766-a65b-72a10e81957c,ottawa.rip,available,23.49,23.49,high,low,6,namesilo,,,24/09/2026 11:58
+59135967-60a3-45f1-bb69-db9d88c6fff6,seneca.rip,available,18.83,18.83,high,low,6,spaceship,,,02/10/2026 05:40
 ab7c8623-48e9-4722-b93f-4adb50ee8c24,prototypal.rip,available,7.99,29.99,medium,low,10,name.com,,,06/08/2026 15:37
 5ce327fe-d487-4962-856c-afb381becbed,mastercard.rip,available,,,high,medium,10,,,,
 e2a967dd-960a-46c2-a08e-551832c38b10,dans.rip,available,24.98,32.98,medium,low,4,namecheap,,,28/09/2026 04:35
@@ -753,13 +780,16 @@ a248d77b-5702-44af-bcb8-911139440fd4,ranch.rip,available,23.49,23.49,high,low,5,
 76712cf0-14a5-48c2-bd52-676b1aa06683,andradite.rip,available,23.49,23.49,medium,low,9,namesilo,,,19/09/2026 04:09
 456d7fae-e9f5-45f2-a773-119fd1865e94,autoimmune.rip,available,7.99,29.99,medium,low,10,name.com,,,07/08/2026 20:32
 0247afbd-3c09-41e2-ae8c-9c86b98ac464,sabbatic.rip,available,23.49,23.49,medium,low,8,namesilo,,,09/09/2026 20:32
+aa709000-e5ed-4db4-95f3-70618af1bf86,multiplying.rip,available,24.5,,high,low,11,unstoppable,,,01/10/2026 06:06
 a3282698-d0d8-4620-923c-c283a1565c62,brigade.rip,available,7.99,29.99,high,low,7,name.com,,,24/09/2026 10:19
 bc1d50ce-fceb-4367-9bb4-c444875d20ab,dislike.rip,available,23.49,23.49,high,low,7,namesilo,,,29/09/2026 15:55
 9e5040a5-bfec-4dec-be69-e8cb2a311c6c,vocational.rip,available,23.49,23.49,high,low,10,namesilo,,,13/09/2026 06:29
 b4969c66-a0bc-4462-92e9-8dd35e65f2a7,angora.rip,available,23.49,23.49,high,low,6,namesilo,,,19/09/2026 07:06
 13cc8940-b8b3-4d31-88a0-8d514f67dd3f,ungummed.rip,available,23.49,23.49,low,low,8,namesilo,,,12/09/2026 11:43
 cbb446b6-4981-4910-8057-dad8c746da27,cantonal.rip,available,7.99,29.99,medium,low,8,name.com,,,11/08/2026 17:44
+3c59b037-42a9-4f74-860f-ee86a5a315b2,imd.rip,available,23.49,23.49,high,low,3,namesilo,,,01/10/2026 23:35
 ea7cb5ca-2e81-445b-ba10-1046152b01e7,portland.rip,premium,36.32,72.57,high,low,8,porkbun,,,30/09/2026 07:12
+c9ad191d-a1c8-4545-9581-7b2a6d1fd5b0,scrambling.rip,available,18.83,18.83,medium,low,10,spaceship,,,01/10/2026 23:12
 fd1b2bf1-dc41-4119-a004-8a91b4f80b67,fbs.rip,available,4.5,19.48,high,low,3,dynadot,,,29/09/2026 22:15
 c0d7ba4a-21a1-4e6d-88a5-fbe771a8e6ea,jonathan.rip,available,23.49,23.49,high,low,8,namesilo,,,25/09/2026 08:03
 bf100583-eeb1-4029-b7d1-bf69c1ff2b05,darkish.rip,available,7.99,29.99,medium,low,7,name.com,,,13/08/2026 18:14
@@ -783,13 +813,15 @@ fcc4d3c9-eb65-43ae-9474-22152bdad017,tattooing.rip,available,24.98,32.98,high,lo
 c558c80c-6976-4c1c-8837-039fa5a79b2a,synoecious.rip,available,23.49,23.49,medium,low,10,namesilo,,,11/09/2026 06:29
 2e344544-c419-4e81-a3f4-19c57ebf3294,documentary.rip,available,23.49,23.49,high,low,11,namesilo,,,28/09/2026 04:30
 1cfa218b-f652-4318-a4a7-87b5da3d0ca0,phenomenal.rip,available,24.98,32.98,high,low,10,namecheap,,,08/09/2026 18:46
+bd68d3ac-19fa-4f0e-aa8c-3205b0adfc84,intoxicating.rip,available,24.5,,high,low,12,unstoppable,,,01/10/2026 22:34
+6c8fbc10-4adc-46f6-9aea-946fdc88920c,pth.rip,available,24.5,,high,low,3,unstoppable,,,01/10/2026 06:57
 cbd40cfe-c818-49b7-be11-c55b059a161b,mio.rip,available,23.49,23.49,high,low,3,namesilo,,,30/09/2026 12:31
 e685e5b9-ed2b-4d9a-be5c-db6426710e2c,bittie.rip,available,7.99,29.99,medium,low,6,name.com,,,10/08/2026 07:56
 f17dd2c3-1836-40f1-b4b8-f46b699d5b42,boreal.rip,available,7.99,29.99,high,low,6,name.com,,,10/08/2026 19:55
 0aaf9c68-2af4-4394-b301-14391254a443,incense.rip,available,24.5,,high,low,7,unstoppable,,,29/09/2026 19:17
 86b99d02-1403-447e-8e83-f0a130a20b16,pickaback.rip,available,23.49,23.49,medium,low,9,namesilo,,,15/09/2026 19:48
 e21393d7-dd27-499e-9878-0ea259f8c2ed,characterize.rip,available,18.2,18.2,high,low,12,cloudflare,,,30/09/2026 19:36
-c3386c84-3c3a-4d60-8a3f-965bdb2d8739,relating.rip,available,7.99,,high,low,8,name.com,,,
+c3386c84-3c3a-4d60-8a3f-965bdb2d8739,relating.rip,available,4.5,19.48,high,low,8,dynadot,,,01/10/2026 21:56
 100a3e34-654b-4df2-92f9-e5cd651f77bd,sissified.rip,available,7.99,29.99,medium,low,9,name.com,,,12/08/2026 08:41
 8aac4147-7d46-41eb-8d4c-a68c6a4bc887,wily.rip,available,7.99,29.99,medium,low,4,name.com,,,13/08/2026 04:38
 3b8264f7-3c57-4afb-bf9f-14b188726e79,joints.rip,available,23.49,23.49,medium,low,6,namesilo,,,20/09/2026 03:38
@@ -800,11 +832,12 @@ c621ad2f-f0e0-48d9-b286-58d615f1a670,grizzly.rip,available,7.99,29.99,high,low,7
 0b030b75-2d67-48f4-ba15-cb4148d5557e,valorous.rip,available,23.49,23.49,medium,low,8,namesilo,,,13/09/2026 00:57
 896703ae-4ced-474e-a047-1e1edc9f604a,observed.rip,available,23.49,23.49,high,low,8,namesilo,,,22/09/2026 09:25
 8ca62265-cf25-422a-adc5-43ca695275ac,cannes.rip,available,23.49,23.49,high,low,6,namesilo,,,24/09/2026 12:04
-48738b10-3b22-4e04-bea0-fd7956e95956,returned.rip,available,7.99,,high,low,8,name.com,,,
+48738b10-3b22-4e04-bea0-fd7956e95956,returned.rip,available,24.98,32.98,high,low,8,namecheap,,,01/10/2026 19:02
 d43945df-e47d-4465-aa5e-143bd6e926f1,humor.rip,available,23.49,23.49,high,low,5,namesilo,,,24/09/2026 06:28
 a62951cc-e21c-4ab8-9f58-cbadf3b987a2,printers.rip,available,23.49,23.49,medium,low,8,namesilo,,,21/09/2026 00:30
 6898d373-8665-4687-82f7-191c8cad4c95,adolescent.rip,available,24.98,32.98,high,low,10,namecheap,,,21/09/2026 19:03
 cd4dbc56-3deb-4216-b0d8-87ca5322d980,wasting.rip,available,24.98,32.98,medium,low,7,namecheap,,,21/09/2026 00:58
+8684ef38-cf56-4632-aa4f-0386736e7799,grips.rip,available,18.83,18.83,medium,low,5,spaceship,,,02/10/2026 01:51
 9828cb43-c6eb-4bae-87fc-3e5acfcf0b6a,galway.rip,available,24.5,,high,low,6,unstoppable,,,28/09/2026 09:51
 43fc2468-72d6-4602-bfdc-d2516f520104,leaded.rip,available,7.99,29.99,medium,low,6,name.com,,,22/08/2026 21:42
 7dc45fea-07b8-4b11-8e6a-eaf58227bc0f,snobby.rip,available,7.99,29.99,medium,low,6,name.com,,,12/08/2026 11:23
@@ -814,6 +847,7 @@ ea8cda3e-aed1-44df-b926-add00bf033ee,intimate.rip,available,23.49,23.49,high,low
 a4c55782-4428-4b84-9e06-c727c499b55c,barlow.rip,available,23.49,23.49,high,low,6,namesilo,,,29/09/2026 03:31
 c4962391-ba35-4a7c-99b1-95da5fc2d0b8,botanic.rip,available,7.99,29.99,high,low,7,name.com,,,10/08/2026 20:46
 b5a4da78-cf78-46f2-a8e9-0098ebd1431d,attracts.rip,available,23.49,23.49,medium,low,8,namesilo,,,30/09/2026 06:55
+5011eb13-3fe4-476a-bdef-55dbd98be4e4,refueling.rip,available,24.5,,high,low,9,unstoppable,,,01/10/2026 19:40
 c2dea481-0d4b-47e0-bfa6-1acf459b78af,unblushing.rip,available,23.49,23.49,medium,low,10,namesilo,,,10/09/2026 05:55
 32797141-8a49-4b58-913d-f39f02efc477,armenian.rip,available,7.99,29.99,high,low,8,name.com,,,06/08/2026 19:39
 b253afe2-59e7-4dd7-8df7-6050b825b198,wordsworth.rip,available,23.49,23.49,medium,low,10,namesilo,,,28/09/2026 15:34
@@ -828,8 +862,9 @@ dafe43ec-7cb2-4955-a59b-52c5a749234d,dialectal.rip,available,7.99,29.99,medium,l
 66858cd9-319d-4da9-8d08-d848f1a99bbb,flor.rip,available,7.99,,high,low,4,name.com,,,
 d7d72e39-87ab-481c-9066-7b265b7df8ae,cultivated.rip,available,7.99,29.99,high,low,10,name.com,,,13/08/2026 10:14
 1116498f-c762-4247-b8f4-d3b42bd15eb1,counseling.rip,available,24.98,32.98,high,low,10,namecheap,,,01/10/2026 03:29
+8137e330-c737-4d5c-a515-6021652b1e32,miley.rip,available,18.83,18.83,medium,low,5,spaceship,,,01/10/2026 10:18
 c2a2d3bc-0f35-442d-9672-5e2b54b2273d,asphyxia.rip,available,23.49,23.49,medium,low,8,namesilo,,,20/09/2026 15:10
-736267fa-8d39-4431-88fe-4f1b72b100c6,breathtaking.rip,available,7.99,,high,low,12,name.com,,,
+736267fa-8d39-4431-88fe-4f1b72b100c6,breathtaking.rip,available,23.49,23.49,high,low,12,namesilo,,,01/10/2026 10:31
 9bc9c68a-2cb5-4fbe-830e-b446cae15a3d,territorial.rip,available,18.2,18.2,medium,low,11,cloudflare,,,28/09/2026 21:11
 30ae82b8-5914-4469-bbcd-191e7860053b,abattis.rip,available,24.98,32.98,medium,low,7,namecheap,,,16/09/2026 14:11
 9df923b4-cbf8-4e81-9d23-41eabfefe1da,scoffing.rip,available,7.99,29.99,medium,low,8,name.com,,,22/08/2026 12:43
@@ -852,6 +887,7 @@ a4a6f044-156f-49c0-bab5-72f7f22cfd33,fabricated.rip,available,7.99,29.99,medium,
 d7ab057a-61e4-4654-92b5-49a387d21b8f,hickory.rip,available,18.83,18.83,high,low,7,spaceship,,,30/09/2026 17:36
 494cb0ad-44c3-4e64-8575-7899946dc40c,enteric.rip,available,7.99,29.99,medium,low,7,name.com,,,17/08/2026 09:53
 102b3d26-ec09-4f27-99a7-8ed8d3162246,trice.rip,available,7.99,29.99,medium,low,5,name.com,,,22/08/2026 07:32
+653c1633-b3c5-4bc9-9779-1e6520f385f2,lun.rip,available,18.83,18.83,medium,low,3,spaceship,,,01/10/2026 23:06
 351fd63c-4965-45f3-9665-7cc1f5ce78c6,torquay.rip,available,18.83,18.83,medium,low,7,spaceship,,,30/09/2026 21:29
 ec1dbc44-2ab4-4d85-a2df-9e2db0886c0e,jesting.rip,available,7.99,29.99,high,low,7,name.com,,,22/08/2026 12:52
 d4cc1d66-b44a-4fd1-882f-a050b51bc7b2,antithetic.rip,available,7.99,29.99,medium,low,10,name.com,,,05/08/2026 19:49
@@ -876,7 +912,10 @@ f6f0f78c-d77a-4011-b324-39ca1ff81706,commission.rip,available,4.63,19.05,high,lo
 724feca5-1971-459f-b8f3-b7cf49b2923a,insult.rip,available,23.49,23.49,high,low,6,namesilo,,,17/09/2026 14:53
 b49c030e-14ae-493a-bfb4-536f81dd4577,nitrous.rip,available,7.99,29.99,high,low,7,name.com,,,08/08/2026 03:03
 9fd9585e-fb60-4531-b371-9917da9b9b94,coppery.rip,available,7.99,29.99,medium,low,7,name.com,,,13/08/2026 00:34
+a49a174a-2229-4c44-abb9-d364fac993ef,maracaibo.rip,available,18.83,18.83,medium,low,9,spaceship,,,02/10/2026 05:43
+c6ac2a2a-1e00-4677-a71a-5c9ff57b7cbf,aristophanes.rip,available,18.83,18.83,medium,low,12,spaceship,,,02/10/2026 00:26
 4d6b77cb-94fc-44d8-82ca-bfa54de206e7,clause.rip,available,23.49,23.49,high,low,6,namesilo,,,24/09/2026 15:20
+384f6e5e-7801-45d9-9fde-44c6cf1d630c,cremation.rip,premium,102.67,102.67,high,low,9,spaceship,,,02/10/2026 04:29
 2623e45f-d583-4997-a715-796b6a070090,adenovirus.rip,available,23.49,23.49,medium,low,10,namesilo,,,17/09/2026 07:41
 04adc7ec-ada7-482a-b136-d42f1e64cda7,armless.rip,available,7.99,29.99,medium,low,7,name.com,,,06/08/2026 19:54
 cceacb3c-7cc4-4fa8-b9a5-87ac9c6a9789,wanna.rip,available,23.49,23.49,high,low,5,namesilo,,,26/09/2026 00:48
@@ -913,10 +952,11 @@ cdeaf9d2-bc4e-4def-bf38-0670a27024f6,unwanted.rip,available,23.49,23.49,high,low
 f139ab4a-c2bf-4d41-b385-e1be16bf7a08,argonne.rip,available,23.49,23.49,medium,low,7,namesilo,,,20/09/2026 04:36
 c534325e-2a95-4735-8271-f23bcca565da,hof.rip,available,18.83,18.83,high,low,3,spaceship,,,30/09/2026 19:41
 9943f72f-76ce-4f47-8932-fc19a0a3fd95,falls.rip,available,4.63,19.05,high,low,5,porkbun,,,29/09/2026 18:56
-a4d4d6a0-03d0-4e94-823b-9e9f4f8eba68,rideshare.rip,available,7.99,,high,low,9,name.com,,,
+a4d4d6a0-03d0-4e94-823b-9e9f4f8eba68,rideshare.rip,available,24.98,32.98,high,low,9,namecheap,,,02/10/2026 03:28
 065a417f-4ef2-4785-b123-ae79e5e74fac,justly.rip,available,23.49,23.49,high,low,6,namesilo,,,15/09/2026 10:18
 83311536-56c4-443d-99c4-9d7c69bc9e1a,round.rip,available,7.99,29.99,high,low,5,name.com,,,09/08/2026 05:09
 8326f4a7-ef94-417a-903b-7a244e96f8b9,shoebill.rip,available,24.98,32.98,medium,low,8,namecheap,,,21/09/2026 20:35
+8bd489a8-fa6f-4ab4-bc64-4f7e0e6b2643,predicting.rip,available,4.63,19.05,high,low,10,porkbun,,,01/10/2026 23:05
 bf419906-7042-47d3-b6cc-9b9ad7ec3d6c,country.rip,available,23.49,23.49,high,low,7,namesilo,,,28/09/2026 22:01
 cd4a6713-53b3-4960-b3ca-a56808106cd0,red.rip,premium,512,512,high,medium,3,namesilo,,,22/09/2026 22:22
 9c953f84-1e06-45e4-b76e-8fd58725d9a1,clinically.rip,available,4.5,19.48,medium,low,10,dynadot,,,28/09/2026 13:58
@@ -939,6 +979,7 @@ c1ed2eca-747e-4b14-a1aa-06d5351f181b,either.rip,available,24.5,,medium,low,6,uns
 6c0ba890-4030-4982-9add-2ce4f3573736,housekeeper.rip,available,4.63,19.05,high,low,11,porkbun,,,28/09/2026 11:27
 5092ebaf-a104-468a-8d00-e597b73653d7,bethune.rip,available,23.49,23.49,medium,low,7,namesilo,,,23/09/2026 11:17
 e99ca556-b161-4d7e-b4cd-635b457f6bc6,alchemical.rip,available,7.99,29.99,medium,low,10,name.com,,,
+18404ca1-bbaf-4d1d-9110-8b79a326b041,asu.rip,available,24.5,,medium,low,3,unstoppable,,,02/10/2026 00:04
 89b036ca-0ac2-4efa-9712-b3dae66adec9,disappoint.rip,available,24.5,,medium,low,10,unstoppable,,,29/09/2026 14:14
 f925625b-e328-4194-864f-fba126814dc6,sanative.rip,available,7.99,29.99,medium,low,8,name.com,,,
 980f111e-f29e-4a30-a4a8-1795752eb817,nashville.rip,premium,108.9,108.9,high,low,9,dynadot,,,29/09/2026 07:04
@@ -955,47 +996,6 @@ f7b1f062-ebd9-4030-b27a-786c0a43303e,congregational.rip,available,7.99,,medium,l
 07eab350-f97d-4660-84cd-68fe52103a9a,vicarious.rip,available,23.49,23.49,medium,low,9,namesilo,,,13/09/2026 05:15
 c3f3edf9-7739-4ae2-b166-005962aceade,rams.rip,available,4.63,19.05,high,low,4,porkbun,,,30/09/2026 20:33
 32c18f66-fa55-4f5c-9ba6-739bca3a7030,agromania.rip,available,24.98,32.98,medium,low,9,namecheap,,,17/09/2026 19:38
+a8612862-6759-4f17-9514-064acaed08de,snowboarding.rip,available,18.83,18.83,high,low,12,spaceship,,,02/10/2026 01:30
 b33ea839-3205-4f25-8e75-6fc70edee7e4,violations.rip,available,18.2,18.2,medium,low,10,cloudflare,,,29/09/2026 10:53
 b1f3619d-33d8-4100-ba33-239b1ca76936,constraints.rip,available,23.49,23.49,low,low,11,namesilo,,,20/09/2026 23:49
-01684cd1-e8e9-44ac-9d0b-b7fffffa0c9a,halal.rip,available,7.99,29.99,high,low,5,name.com,,,20/08/2026 22:18
-ea2e3dac-d71f-4a7a-88fc-704ab0b4b37a,judas.rip,available,18.83,18.83,medium,low,5,spaceship,,,28/09/2026 19:35
-4efd37de-aa2c-4220-82e5-4d7f25885e44,torch.rip,available,23.49,23.49,high,low,5,namesilo,,,28/09/2026 16:58
-2b22a783-44ef-4a25-8c96-4029cdaba85f,mobility.rip,available,24.5,,high,low,8,unstoppable,,,29/09/2026 19:41
-2a782cf8-bdbe-4085-bf3c-28e6cd9a2340,alalia.rip,available,23.49,23.49,medium,low,6,namesilo,,,18/09/2026 01:40
-a5f08cc4-a1e4-4c69-9ef3-4288776298e8,exogenous.rip,available,7.99,29.99,medium,low,9,name.com,,,17/08/2026 17:33
-555df1a0-8567-40c5-bbf8-8e646de22ca2,dcs.rip,available,24.5,,high,low,3,unstoppable,,,30/09/2026 20:17
-a339228e-cae7-4147-8112-ba3eb450b535,photograph.rip,available,23.49,23.49,high,low,10,namesilo,,,26/09/2026 00:03
-d7ee49ce-d1ba-49af-8911-d60ee6806387,brie.rip,available,18.83,18.83,medium,low,4,spaceship,,,29/09/2026 04:09
-0e8b3ea3-e195-42d1-8a7a-26bad189c0cd,simply.rip,available,23.49,23.49,high,medium,6,namesilo,,,25/09/2026 12:19
-dce32bf8-02c2-4414-adbb-bbac25553e6a,accounting.rip,available,18.83,18.83,high,low,10,spaceship,,,29/09/2026 22:48
-47ad73bc-2cf6-44c3-916b-2ec048687b9c,transactions.rip,available,4.63,19.05,high,low,12,porkbun,,,29/09/2026 02:35
-0d0b136f-8610-4955-8f00-f4080b9836b8,mangled.rip,available,7.99,29.99,medium,low,7,name.com,,,24/08/2026 14:53
-1ab0dae7-3c12-455e-be54-d908839fd7e0,susanna.rip,available,18.83,18.83,high,low,7,spaceship,,,28/09/2026 01:02
-2cd85cff-be3c-4906-8ddd-3498c97614b6,chromosomes.rip,available,18.83,18.83,medium,low,11,spaceship,,,01/10/2026 00:36
-4e555513-2db2-4c1e-9c2f-0f786578a84f,hero.rip,available,23.49,23.49,high,medium,4,namesilo,,,29/09/2026 12:56
-15257e72-d6d2-4243-9ec2-45e9b00dab4b,pollock.rip,available,23.49,23.49,high,low,7,namesilo,,,29/09/2026 13:11
-d7aa95ac-c918-437b-af15-7d56d420ddfe,undertaker.rip,available,18.2,18.2,high,low,10,cloudflare,,,30/09/2026 09:51
-8c3b7a89-b461-4893-a5b4-1dee26e2ff7a,backer.rip,available,24.98,32.98,high,low,6,namecheap,,,21/09/2026 15:26
-f704d27b-f526-4854-bda6-10ec014a5342,lacy.rip,available,7.99,29.99,medium,low,4,name.com,,,22/08/2026 17:47
-189a68dd-c97a-4b76-ad9c-d0aeb2fab55e,damning.rip,available,7.99,29.99,medium,low,7,name.com,,,13/08/2026 16:33
-80f31aa2-fa1b-4fae-86d5-c892b44479ab,presents.rip,available,23.49,23.49,high,low,8,namesilo,,,08/09/2026 04:30
-89847f08-f1db-4336-9213-e50d5b4f7987,quarter.rip,available,23.49,23.49,high,low,7,namesilo,,,28/09/2026 00:50
-fc40ce17-6a27-4712-8fa5-f18511666dba,neck.rip,available,24.5,,high,low,4,unstoppable,,,29/09/2026 07:49
-0e6f9fb7-789d-4920-9259-6eb90d4b96dd,belladonna.rip,available,23.49,23.49,medium,low,10,namesilo,,,21/09/2026 00:55
-4e0b31ed-d929-443a-be7a-b80df58c6b2e,anzio.rip,available,23.49,23.49,medium,low,5,namesilo,,,19/09/2026 16:01
-99654b4f-bddc-430d-a2d9-f7fb041fa8c6,unfair.rip,available,24.5,,medium,low,6,unstoppable,,,28/09/2026 09:45
-01c6fc57-cf57-4b5b-9839-2081783a0979,hatched.rip,available,7.99,29.99,high,low,7,name.com,,,13/08/2026 08:20
-299f386f-50c2-4cb9-b0a2-475d0bcdddbc,fines.rip,available,18.83,18.83,medium,low,5,spaceship,,,01/10/2026 00:54
-57d64ba9-9fa5-400c-8302-2d686d9da1be,wassermann.rip,available,23.49,23.49,high,low,10,namesilo,,,21/09/2026 03:49
-ab74e29b-89d5-4801-83a6-7471621fb832,isidore.rip,available,23.49,23.49,medium,low,7,namesilo,,,30/09/2026 00:09
-64c10532-91a0-4f3c-ac69-ad4b59980e1b,strongest.rip,available,24.98,32.98,medium,low,9,namecheap,,,28/09/2026 12:52
-da68ddb8-7430-4344-8808-259f8d214174,droll.rip,available,7.99,29.99,medium,low,5,name.com,,,14/08/2026 19:39
-9f60bf9d-0b96-4dbc-9e69-474be0ddf5d5,becky.rip,available,23.49,23.49,high,low,5,namesilo,,,28/09/2026 00:14
-96a782e1-51c4-41cf-93ea-d254166a326d,dismayed.rip,available,7.99,29.99,medium,low,8,name.com,,,
-b156559b-4848-480c-aec0-75b788d18d42,hamburg.rip,available,24.5,,high,low,7,unstoppable,,,29/09/2026 13:00
-797a592e-7fb6-4fc2-ba09-cd9e19e95c1e,sternal.rip,available,24.98,32.98,medium,low,7,namecheap,,,10/09/2026 20:18
-7c1aaf9f-afae-494e-8bd2-c1db721b045a,wretched.rip,available,7.99,29.99,medium,low,8,name.com,,,14/08/2026 04:09
-edbfdef8-82df-4f83-9a57-62efdc05e05b,oxfordshire.rip,available,24.98,32.98,medium,low,11,namecheap,,,29/09/2026 03:45
-97130c31-1ce6-444d-97b6-5bb840365e12,passion.rip,available,23.49,23.49,high,low,7,namesilo,,,29/09/2026 05:44
-9476679f-13d6-443c-9ee3-8db9ae983033,plutonic.rip,available,23.49,23.49,medium,low,8,namesilo,,,19/09/2026 03:29
-a018a7a2-0298-4b00-89b6-531a57e7cb33,lunches.rip,available,24.98,32.98,medium,low,7,namecheap,,,20/09/2026 07:45
